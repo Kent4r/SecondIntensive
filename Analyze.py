@@ -15,5 +15,3 @@ f = open('list_of_object_col.txt', 'w')
 f.write(f"{str(list(df.select_dtypes(['object']).columns)).replace(', ', '\n').replace("'", '').replace('[','').replace(']', '')}")
 f.close()
 # %%
-df['report_date'].unique()
-# %%
