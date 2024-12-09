@@ -10,10 +10,10 @@ df.dropna(how='all', axis=1, inplace=True)
 df.shape
 # %% смотрим сколько колонок какого типа
 df.info()
-# %% 
-list(df.select_dtypes(['object']).columns)
-# %%
+# %% записываем весь список колонок типа obj
 f = open('list_of_object_col.txt', 'w')
 f.write(f"{str(list(df.select_dtypes(['object']).columns)).replace(', ', '\n').replace("'", '').replace('[','').replace(']', '')}")
 f.close()
+# %%
+df['report_date'].unique()
 # %%
