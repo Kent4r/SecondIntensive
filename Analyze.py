@@ -7,8 +7,14 @@ df = pd.read_csv('train.csv')
 df.shape
 
 # %%
-# Удаление пустых колонок и смотрим, что изменилось
+# Удаление пустых колонок, дропаем дупликаты и смотрим, что изменилось
 df.dropna(how='all', axis=1, inplace=True)
+df.drop_duplicates()
+df.shape
+
+# %%
+# Удаляем все колонки, у которых наполненность менее 50%
+df = df.loc[:, ((df == 0) | (df.isnull())).mean() < 0.5]
 df.shape
 # %%
 # смотрим сколько колонок какого типа
@@ -32,7 +38,7 @@ f.close()
 # %%
 # Делаем то же самое, но с float64
 text = ""
-for col in list(df.select_dtypes(['float']).columns): text += f"{col}:\n{str(df[col].unique())}\n\n\n"
+for col in list(df.select_dtypes(['float']).columns): text += f"{col}:\n{df[col].unique()}\n\n\n"
 f = open('list_of_unique_values_in_float_cols.txt', 'w', encoding='utf-8')
 
 dic = {'nan':'',"' ":'\n'," '":'',"'":'','[':'',']':'','  ':'',}
