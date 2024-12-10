@@ -30,3 +30,14 @@ for i, j in dic.items(): text = text.replace(i, j)
 f.write(text)
 f.close()
 # %%
+# Делаем то же самое, но с float64
+text = ""
+for col in list(df.select_dtypes(['float']).columns): text += f"{col}:\n{str(df[col].unique())}\n\n\n"
+f = open('list_of_unique_values_in_float_cols.txt', 'w', encoding='utf-8')
+
+dic = {'nan':'',"' ":'\n'," '":'',"'":'','[':'',']':'','  ':'',}
+for i, j in dic.items(): text = text.replace(i, j)
+
+f.write(text)
+f.close()
+# %%
