@@ -1,7 +1,7 @@
 # %%
 # Импорт библиотек, чтение и вывод фигуры данных
 import pandas as pd
-import numpy as np
+# import numpy as np
 
 df = pd.read_csv('train.csv')
 df.shape
