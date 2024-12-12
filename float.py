@@ -14,7 +14,7 @@ def merge_columns_with_common_values(df):
     temp_col = "col4"
 
     # Преобразуем DataFrame в строки для сравнения
-    df.astype(str)
+    
     df.replace(["nan", np.float64(0.0), np.float64(1.0)], np.nan, inplace=True)  # Убираем только "nan"
     
     # Создаем словарь для группировки колонок с общими значениями
@@ -45,7 +45,7 @@ def merge_columns_with_common_values(df):
                 if base_toggle == True: return False
                 else:
                     match = re.match(r"([a-zA-Z]+)(\d{1,4})", temp_col)
-                    is_jump = ((int(match1.group(2)) - int(match.group(2))) > 3)
+                    is_jump = ((int(match1.group(2)) - int(match.group(2))) > 5)
                     return is_jump
 
             # Упрощенные критерии объединения
