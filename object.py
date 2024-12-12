@@ -51,12 +51,12 @@ i = 1
 while count != 0:
     i += 1
     df_merged = merge_columns_with_common_values(df_merged)
-    print(i)
+    print(f"Iteration {i}: {len(df_merged.columns)} columns left")
 
 
 if count == 0:
     print("Nothing changed!")
 
 # Сохраняем результат в новый CSV-файл
-df_merged.to_csv('merged_file.csv', index=False)
+df_merged.to_csv('merged_object.csv', index=False)
 # %%
