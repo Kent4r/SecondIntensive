@@ -7,7 +7,7 @@ df = pd.read_csv('csv_object.csv')
 
 # Преобразуем все столбцы в тип object (если они уже не object)
 df = df.astype(str)
-df.replace('0', np.nan, inplace=True)
+df.replace('0', '', inplace=True)
 df.replace('nan', np.nan, inplace=True)
 
 # Функция для объединения столбцов, если они имеют общие уникальные значения
