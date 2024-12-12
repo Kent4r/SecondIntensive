@@ -4,7 +4,7 @@ import numpy as np
 import re
 
 # Загружаем CSV-файл
-df = pd.read_csv("csv_float64.csv", dtype=np.float64)
+df = pd.read_csv("../csv/csv_float64.csv", dtype=np.float64)
 
 
 def merge_columns_with_common_values(df):
@@ -97,8 +97,8 @@ else:
     print(f"{count} columns were merged.")
 
 # Сохраняем результат в новый CSV-файл
-df_merged.to_csv('merged_float.csv', index=False)
+df_merged.to_csv('../merged_csv/merged_float.csv', index=False)
 # %%
-df_mer = pd.read_csv("merged_float.csv")
+df_mer = pd.read_csv("../merged_csv/merged_float.csv")
 df_mer.shape
 # %%

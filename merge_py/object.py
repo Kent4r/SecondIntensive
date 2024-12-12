@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Загружаем CSV-файл
-df = pd.read_csv('csv_object.csv')
+df = pd.read_csv('../csv/csv_object.csv')
 
 # Преобразуем все столбцы в тип object (если они уже не object)
 df = df.astype(str)
@@ -58,5 +58,5 @@ if count == 0:
     print("Nothing changed!")
 
 # Сохраняем результат в новый CSV-файл
-df_merged.to_csv('merged_object.csv', index=False)
+df_merged.to_csv('../merged_csv/merged_object.csv', index=False)
 # %%

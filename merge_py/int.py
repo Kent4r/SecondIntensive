@@ -4,7 +4,7 @@ import numpy as np
 import re
 
 # Загружаем CSV-файл
-df = pd.read_csv("csv_int64.csv", dtype=np.float64)  # Сначала загружаем как float64
+df = pd.read_csv("../csv/csv_int64.csv", dtype=np.float64)  # Сначала загружаем как float64
 
 df = df.drop(["client_id","target"],axis=1)
 df.replace("nan",np.nan, inplace=True)
@@ -103,9 +103,9 @@ else:
 df_merged.replace(-1, np.nan, inplace=True)
 
 # Сохраняем результат в новый CSV-файл
-df_merged.to_csv("merged_int64.csv", index=False)
+df_merged.to_csv("../merged_csv/merged_int64.csv", index=False)
 
 # Проверяем результат
-clean_int = pd.read_csv("merged_int64.csv")
+clean_int = pd.read_csv("../merged_csv/merged_int64.csv")
 print(clean_int.shape)
 # %%
