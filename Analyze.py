@@ -49,7 +49,7 @@ for col in float_columns:
         df[col] = df[col].astype(int)
 
 # %%
-# Делаем то же самое, но с float64 и int64
+# Выводим уникальные значения float64 и int64
 text = ""
 for col in list(df.select_dtypes(['float']).columns): text += f"{col}:\n{df[col].unique()}\n\n\n"
 f = open('list_of_unique_values_in_float_cols.txt', 'w', encoding='utf-8')
@@ -79,7 +79,7 @@ def save_data_frames_by_type(df):
         
         if not selected_df.empty:
             # Сохраняем данные в отдельный файл
-            selected_df.to_csv(f"{dtype}.csv", index=False)
+            selected_df.to_csv(f"csv_{dtype}.csv", index=False)
 
 
 save_data_frames_by_type(df)
