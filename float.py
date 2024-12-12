@@ -1,26 +1,31 @@
 # %%
 import pandas as pd
 import numpy as np
+import re
 
 # Загружаем CSV-файл
 df = pd.read_csv("csv_float64.csv", dtype=np.float64)
 
 
 def merge_columns_with_common_values(df):
+    base_toggle = True
     count = 0
     unique_columns = []
-    
+    temp_col = "col4"
+
     # Преобразуем DataFrame в строки для сравнения
-    df_str = df.astype(str)
-    df.replace("nan", np.nan, inplace=True)  # Убираем только "nan"
+    df.astype(str)
+    df.replace(["nan", np.float64(0.0), np.float64(1.0)], np.nan, inplace=True)  # Убираем только "nan"
     
     # Создаем словарь для группировки колонок с общими значениями
     column_groups = {}
-    
+
     for col in df.columns:
         if col in unique_columns:
             continue
         
+        if col != df.columns[1]: base_toggle = False
+
         # Инициализируем группу для текущей колонки
         column_groups[col] = [col]
         
@@ -33,12 +38,40 @@ def merge_columns_with_common_values(df):
             if np.nan in common_values:
                 common_values.remove(np.nan)
             
+            # count jump by col number
+            match = re.match(r"([a-zA-Z]+)(\d{1,4})", col)
+            match1 = re.match(r"([a-zA-Z]+)(\d{1,4})", next_col)
+            def calc_jump():
+                if base_toggle == True: return False
+                else:
+                    match = re.match(r"([a-zA-Z]+)(\d{1,4})", temp_col)
+                    is_jump = ((int(match1.group(2)) - int(match.group(2))) > 3)
+                    return is_jump
+
             # Упрощенные критерии объединения
+            # print(temp_col)
             if len(common_values) >= 1:  # Объединяем, если есть хотя бы одно общее значение
+                if calc_jump():
+                    temp_col = next_col
+                    break
                 count += 1
+                temp_col = next_col
                 column_groups[col].append(next_col)  # Добавляем колонку в группу
                 unique_columns.append(next_col)  # Помечаем колонку как обработанную
                 print(f"Merged {col} and {next_col}: common_values = {common_values}")
+            else:
+                if calc_jump():
+                    temp_col = next_col
+                    break
+                common_values = list(set(df[temp_col].unique()).intersection(set(df[next_col].unique())))
+                if len(common_values) >= 1:
+                    count += 1
+                    temp_col = next_col
+                    column_groups[col].append(next_col)  # Добавляем колонку в группу
+                    unique_columns.append(next_col)  # Помечаем колонку как обработанную
+                    print(f"Merged {col} and {next_col}: common_values = {common_values}")
+                else:break
+
         
         # Помечаем текущую колонку как обработанную
         unique_columns.append(col)
