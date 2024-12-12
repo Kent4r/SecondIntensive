@@ -49,20 +49,28 @@ for col in float_columns:
         df[col] = df[col].astype(int)
 
 # %%
-# Делаем то же самое, но с float64
+# Делаем то же самое, но с float64 и int64
 text = ""
 for col in list(df.select_dtypes(['float']).columns): text += f"{col}:\n{df[col].unique()}\n\n\n"
 f = open('list_of_unique_values_in_float_cols.txt', 'w', encoding='utf-8')
 
-# dic = {'nan':'',"' ":'\n'," '":'',"'":'','[':'',']':'','  ':'',}
-# for i, j in dic.items(): text = text.replace(i, j)
+dic = {'nan':'',"' ":'\n'," '":'',"'":'','[':'',']':'','  ':'','-':' -'}
+for i, j in dic.items(): text = text.replace(i, j)
+
+f.write(text)
+f.close()
+
+
+text = ""
+for col in list(df.select_dtypes(['int']).columns): text += f"{col}:\n{df[col].unique()}\n\n\n"
+f = open('list_of_unique_values_in_int_cols.txt', 'w', encoding='utf-8')
 
 f.write(text)
 f.close()
 
 # %%
 # Фунция разбития датафрейма на блоки по типу данных и их сохранение
-def save_data_frames_by_type(df, output_file="data_frames_by_type.csv"):
+def save_data_frames_by_type(df):
     data_types = ["float64", "int64", "object"]
 
     for dtype in data_types:
@@ -70,14 +78,8 @@ def save_data_frames_by_type(df, output_file="data_frames_by_type.csv"):
         selected_df = df.select_dtypes(include=[dtype])
         
         if not selected_df.empty:
-            print(f"Columns with type '{dtype}': {list(selected_df.columns)}")
-            print(f"Saving data from these columns to '{output_file}_{dtype}.csv'...")
-
             # Сохраняем данные в отдельный файл
-            selected_df.to_csv(f"{output_file}_{dtype}.csv", index=False)
-            print(f"Data saved to '{output_file}_{dtype}.csv'.")
-        else:
-            print(f"No columns with type '{dtype}' found.")
+            selected_df.to_csv(f"{dtype}.csv", index=False)
 
 
 save_data_frames_by_type(df)

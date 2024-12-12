@@ -26,13 +26,213 @@ report_date:
 2021-03-01
 
 
-col92:
-on
+col50:
+0
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/commercial/
+https://samolet.ru/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/project/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+https://samolet.ru/spb/
+
+
+col51:
+0
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/project/
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/
+https://samolet.ru/commercial/
+https://samolet.ru/spb/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/spb/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+
+
+col52:
+0https://samolet.ru/project/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/
+https://samolet.ru/commercial/
+https://samolet.ru/spb/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/?utm_source=google_search&utm_medium=cpc&utm_campaign=samolet_live_ga_s_brand_samoletgroup_search_search_samolet_text_mmo_33~odm5zjhi|15594698288&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B&utm_content=kwd-323792745758|cid|15594698288|aid|570076239777|gid|131578986416|pos||src|g_|dvc|m|reg|9040979|rin||&gclid=Cj0KCQiA3rKQBhCNARIsACUEW_YpFZ92qiq8VK9QWn3whdfj3c4tluTDLfEeF0MgCRRXxeFmhYre6Y0aAnE9EALw_wcB
+https://samolet.ru/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_remarketing_desktop_nobrand_samoletgroup_network_remarketing_site-visit_tgb_mmo_33~zwrlytjj|65942291&utm_term=&utm_content=29632369_29632369|cid|65942291|gid|4775211685|aid|11527334200|adp|no|pos|none0|src|context_yandex.ru|dvc|desktop|reg|213|text_annons&calltouch_tm=yd_c:65942291_gb:4775211685_ad:11527334200_ph:29632369_st:context_pt:none_p:0_s:yandex.ru_dt:desktop_reg:213_ret:29632369_apt:none&yclid=3005982769650400726
+https://samolet.ru/spb/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_rf_33~zdu5nzk0|70309585&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35904605732_|cid|70309585|gid|4794559257|aid|11618730950|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|11184|text_cena&calltouch_tm=yd_c:70309585_gb:4794559257_ad:11618730950_ph:35904605732_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11184_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDMwOTU4NTsxMTYxODczMDk1MDt5YW5kZXgucnU6cHJlbWl1bQ&yclid=15682424656647421951
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+https://samolet.ru/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_remarketing_mobile_android_nobrand_samoletgroup_network_remarketing_site-visit_tgb_mmo_33~mjnjztll|65949052&utm_term=&utm_content=29632377_29632377|cid|65949052|gid|4775211741|aid|11527791508|adp|no|pos|none0|src|context_m.mail.yandex.ru|dvc|mobile|reg|213|text_annons&calltouch_tm=yd_c:65949052_gb:4775211741_ad:11527791508_ph:29632377_st:context_pt:none_p:0_s:m.mail.yandex.ru_dt:mobile_reg:213_ret:29632377_apt:none&yclid=3558455813095351698
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&utm_content=36202219173_|cid|70577427|gid|4810189390|aid|11685225719|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_mortgage_5_99_2&calltouch_tm=yd_c:70577427_gb:4810189390_ad:11685225719_ph:36202219173_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=13337333393479696383
+https://samolet.ru/?xnpe_tifc=bD1ZOFV7hIssx.1JxI4uxjp.VuJrEfs_OubXOfhs4FLutIoXb.nA4FndbCJNxFVptIb8xFQNbunpbIzl4jXZOke_4kUuOkYj4IeLbdHd&utm_source=exponea&utm_campaign=%5Bbatch%5D%20190722%20%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B6%D0%B4%D1%83%D1%89%D0%B8%D1%85%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&utm_medium=email
+https://samolet.ru/project/?ysclid=l67b3rip7g147376090
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA&utm_content=35325882723_|cid|68613244|gid|4767846428|aid|11502931202|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|10716|text_cena&calltouch_tm=yd_c:68613244_gb:4767846428_ad:11502931202_ph:35325882723_st:search_pt:premium_p:1_s:none_dt:mobile_reg:10716_ret:_apt:none&etext=2202.fqglfUtdkKDi-jNQAf7atrQmIjPXmlc7o4N4eSdcJ0pbdNzUF2_QG9CGqRwRJfLxvyP0IejhJ7qkJwjuJPU-Om93dmFpYW95dGVvZGx2cGo.eb8276a8800df75a41c316c5c096247534c77121&yclid=221584529442265392
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=38396738368_|cid|70577427|gid|4810189389|aid|11685225711|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98634|text_cena&calltouch_tm=yd_c:70577427_gb:4810189389_ad:11685225711_ph:38396738368_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98634_ret:_apt:none&yclid=15241513409759150079
+
+
+col54:
+0
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/commercial/
+https://samolet.ru/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%80%D1%83&utm_content=36027463504_|cid|70577427|gid|4800725302|aid|11670814616|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98623|text_cena&calltouch_tm=yd_c:70577427_gb:4800725302_ad:11670814616_ph:36027463504_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98623_ret:_apt:none&yclid=1130963480369954815
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+https://samolet.ru/spb/
+
+
+col55:
+0
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/project/
+https://samolet.ru/
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/commercial/
+https://samolet.ru/spb/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/spb/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%80%D1%83&utm_content=36027463504_|cid|70577427|gid|4800725302|aid|11670814616|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98623|text_cena&calltouch_tm=yd_c:70577427_gb:4800725302_ad:11670814616_ph:36027463504_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98623_ret:_apt:none&yclid=1130963480369954815
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+
+
+col56:
+0https://samolet.ru/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%B6%D0%B8%D0%BB%D1%8C%D0%B5&utm_content=36027463506_|cid|70577427|gid|4800725302|aid|11670814616|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98621|text_otdelka&calltouch_tm=yd_c:70577427_gb:4800725302_ad:11670814616_ph:36027463506_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98621_ret:_apt:none&yclid=1842423179892490239
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054825_|cid|68613244|gid|4767846385|aid|11502931156|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11502931156_ph:37376054825_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&yadclid=95349619&yadordid=168613244&yclid=18130280909992361983
+https://samolet.ru/
+https://samolet.ru/project/?business_class=1
+https://samolet.ru/commercial/
+https://samolet.ru/spb/project/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=39756956309_|cid|76037737|gid|4961640683|aid|12383135331|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|22|text_cena&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135331_ph:39756956309_st:search_pt:premium_p:1_s:none_dt:mobile_reg:22_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3NjAzNzczNzsxMjM4MzEzNTMzMTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=15189269176066506751
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120121|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120121_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=9024159213120651263
+https://samolet.ru/?utm_source=google_search&utm_medium=cpc&utm_campaign=samolet_live_ga_s_brand_samoletgroup_search_search_samolet_text_mmo_33~odm5zjhi|15594698288&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B&utm_content=kwd-323792745758|cid|15594698288|aid|570076239777|gid|131578986416|pos||src|g_|dvc|m|reg|9040979|rin||&gclid=Cj0KCQiA3rKQBhCNARIsACUEW_YpFZ92qiq8VK9QWn3whdfj3c4tluTDLfEeF0MgCRRXxeFmhYre6Y0aAnE9EALw_wcB
+https://samolet.ru/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_remarketing_desktop_nobrand_samoletgroup_network_remarketing_site-visit_tgb_mmo_33~zwrlytjj|65942291&utm_term=&utm_content=29632369_29632369|cid|65942291|gid|4775211685|aid|11527334200|adp|no|pos|none0|src|context_yandex.ru|dvc|desktop|reg|213|text_annons&calltouch_tm=yd_c:65942291_gb:4775211685_ad:11527334200_ph:29632369_st:context_pt:none_p:0_s:yandex.ru_dt:desktop_reg:213_ret:29632369_apt:none&yclid=3005982769650400726
+https://samolet.ru/spb/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_rf_33~zdu5nzk0|70309585&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35904605732_|cid|70309585|gid|4794559257|aid|11618730950|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|11184|text_cena&calltouch_tm=yd_c:70309585_gb:4794559257_ad:11618730950_ph:35904605732_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11184_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDMwOTU4NTsxMTYxODczMDk1MDt5YW5kZXgucnU6cHJlbWl1bQ&yclid=15682424656647421951
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=35325882672_|cid|68613244|gid|4767846383|aid|11492307715|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492307715_ph:35325882672_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcxNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9519726883194274000&business_class=1
+https://samolet.ru/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_remarketing_mobile_android_nobrand_samoletgroup_network_remarketing_site-visit_tgb_mmo_33~mjnjztll|65949052&utm_term=&utm_content=29632377_29632377|cid|65949052|gid|4775211741|aid|11527791508|adp|no|pos|none0|src|context_m.mail.yandex.ru|dvc|mobile|reg|213|text_annons&calltouch_tm=yd_c:65949052_gb:4775211741_ad:11527791508_ph:29632377_st:context_pt:none_p:0_s:m.mail.yandex.ru_dt:mobile_reg:213_ret:29632377_apt:none&yclid=3558455813095351698
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&utm_content=36202219173_|cid|70577427|gid|4810189390|aid|11685225719|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_mortgage_5_99_2&calltouch_tm=yd_c:70577427_gb:4810189390_ad:11685225719_ph:36202219173_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yadclid=95349662&yadordid=170577427&yclid=13337333393479696383
+https://samolet.ru/?xnpe_tifc=bD1ZOFV7hIssx.1JxI4uxjp.VuJrEfs_OubXOfhs4FLutIoXb.nA4FndbCJNxFVptIb8xFQNbunpbIzl4jXZOke_4kUuOkYj4IeLbdHd&utm_source=exponea&utm_campaign=%5Bbatch%5D%20190722%20%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B6%D0%B4%D1%83%D1%89%D0%B8%D1%85%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&utm_medium=email
+https://samolet.ru/project/?ysclid=l67b3rip7g147376090
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA&utm_content=35325882723_|cid|68613244|gid|4767846428|aid|11502931202|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|10716|text_cena&calltouch_tm=yd_c:68613244_gb:4767846428_ad:11502931202_ph:35325882723_st:search_pt:premium_p:1_s:none_dt:mobile_reg:10716_ret:_apt:none&etext=2202.fqglfUtdkKDi-jNQAf7atrQmIjPXmlc7o4N4eSdcJ0pbdNzUF2_QG9CGqRwRJfLxvyP0IejhJ7qkJwjuJPU-Om93dmFpYW95dGVvZGx2cGo.eb8276a8800df75a41c316c5c096247534c77121&yclid=221584529442265392
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D0%B6%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=38396738368_|cid|70577427|gid|4810189389|aid|11685225711|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98634|text_cena&calltouch_tm=yd_c:70577427_gb:4810189389_ad:11685225711_ph:38396738368_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98634_ret:_apt:none&yclid=15241513409759150079
+
+
+col58:
+0main
+projects_page
+comm-main
+
+
+col59:
+0main
+projects_page
+comm-main
+
+
+col60:
+0projects_page
+main
+comm-main
+
+
+col62:
+0main
+projects_page
+comm-main
+
+
+col63:
+0main
+projects_page
+comm-main
+
+
+col64:
+0projects_page
+main
+comm-main
+
+
+col86:
+0on
 off
 
 
-col99:
+col87:
+0on
+off
+
+
+col88:
+0off
+on
+
+
+col89:
+0on
+off
+
+
+col90:
+0off
+on
+
+
+col91:
+0on
+off
+
+
+col92:
+0on
+off
+
+
+col94:
+0apt_furniture
 apt_kitchen
+apt_storage
+apt_decor
+
+
+col95:
+0apt_furniture
+apt_conditioner
+apt_kitchen
+apt_storage
+apt_decor
+
+
+col96:
+0apt_furniture
+apt_kitchen
+apt_conditioner
+apt_storage
+apt_decor
+apt_description
+
+
+col97:
+0apt_kitchen
+apt_furniture
+apt_storage
+apt_conditioner
+
+
+col98:
+0apt_furniture
+apt_kitchen
+apt_storage
+apt_conditioner
+
+
+col99:
+0apt_kitchen
 apt_furniture
 apt_decor
 apt_storage
@@ -41,7 +241,7 @@ apt_description
 
 
 col100:
-apt_kitchen
+0apt_kitchen
 apt_furniture
 apt_conditioner
 apt_decor
@@ -49,8 +249,35 @@ apt_storage
 apt_description
 
 
-col131:
+col129:
+0agents_panel
+pervii_ekran
 flat-detail-aside
+other_mortgage_programs_list
+main
+offer_and_video3
+mortgage_calc
+main_banner
+top_offer
+
+
+col130:
+0pervii_ekran
+flat-detail-aside
+main_banner
+offer_and_video3
+agents_panel
+online_mortgage
+other_mortgage_programs_list
+banner_ipoteka_mortgage-vtb-29
+main
+mortgage_calc
+after_booking
+top_offer
+
+
+col131:
+0flat-detail-aside
 pervii_ekran
 main_banner
 agents_panel
@@ -66,7 +293,7 @@ after_booking
 
 
 col132:
-flat-detail-aside
+0flat-detail-aside
 pervii_ekran
 agents_panel
 main_banner
@@ -86,8 +313,36 @@ compare
 after_booking
 
 
+col133:
+0flat-detail-aside
+agents_panel
+pervii_ekran
+other_mortgage_programs_list
+contacts
+main
+offer_and_video3
+personal_area
+main_banner
+top_offer
+
+
+col134:
+0flat-detail-aside
+pervii_ekran
+agents_panel
+main_banner
+after_booking
+offer_and_video3
+main
+other_mortgage_programs_list
+contacts
+banner_ipoteka_mortgage-vtb-29
+personal_area
+top_offer
+
+
 col135:
-flat-detail-aside
+0flat-detail-aside
 pervii_ekran
 agents_panel
 main_banner
@@ -105,7 +360,7 @@ personal_area
 
 
 col136:
-flat-detail-aside
+0flat-detail-aside
 agents_panel
 contacts
 pervii_ekran
@@ -127,8 +382,53 @@ main_comm
 top_offer
 
 
-col144:
+col138:
+0Ипотека
 Ипотека 2.9
+Ипотека 2,99
+Ипотека 0,01
+
+
+col139:
+0Ипотека
+Ипотека 2.9
+Ипотека 2,99
+Ипотека 0,01
+
+
+col140:
+0Ипотека
+Ипотека 2.9
+Ипотека 0,01
+Ипотека 0.01
+levelup
+Ипотека 2,99
+
+
+col141:
+0Ипотека 2.9
+Ипотека
+Ипотека 0,01
+
+
+col142:
+0Ипотека 0.01
+Ипотека
+Ипотека 2.9
+Ипотека 0,01
+Ипотека 2,99
+
+
+col143:
+0Ипотека
+Ипотека 0.01
+Ипотека 2.9
+Ипотека 0,01
+Ипотека 2,99
+
+
+col144:
+0Ипотека 2.9
 Ипотека
 Ипотека 0.01
 Ипотека 0,01
@@ -138,8 +438,43 @@ levelup
 Рассрочка от застройщика
 
 
-col147:
+col145:
+0ipoteka-29
+fix_client
+booking_storage
+mortgage
 booking
+mortgage_parking
+callback_parking
+ipoteka_001
+netting_program_selling
+booking_parking
+complaint
+levelup
+
+
+col146:
+0booking
+mortgage
+ipoteka-29
+levelup
+booking_storage
+netting_program_selling
+fix_client
+bigday_2022
+mortgage_lk
+mortgage_parking
+callback_parking
+ipoteka_mortgage-vtb-29
+ipoteka_001
+booking_parking
+netting_calc
+complaint
+callback_storage
+
+
+col147:
+0booking
 mortgage
 assignment_of_claim
 ipoteka-29
@@ -165,7 +500,7 @@ callback_storage
 
 
 col148:
-booking
+0booking
 appointment
 mortgage
 fix_client
@@ -199,8 +534,46 @@ project_card_consultation
 samolet_bonus
 
 
+col149:
+0booking
+ipoteka-29
+fix_client
+booking_storage
+mortgage
+callback_parking
+appointment
+ipoteka_001
+netting_program_selling
+consultation
+assignment_of_claim
+booking_parking
+complaint
+levelup
+
+
+col150:
+0booking
+mortgage
+ipoteka-29
+levelup
+fix_client
+booking_storage
+netting_program_selling
+bigday_2022
+ipoteka_001
+booking_parking
+callback_parking
+appointment
+ipoteka_mortgage-vtb-29
+netting_calc
+consultation
+assignment_of_claim
+complaint
+callback_storage
+
+
 col151:
-booking
+0booking
 mortgage
 assignment_of_claim
 ipoteka-29
@@ -227,7 +600,7 @@ callback_storage
 
 
 col152:
-booking_storage
+0booking_storage
 booking
 fix_client
 mortgage
@@ -258,8 +631,43 @@ soon_projects_callback
 installment_comm
 
 
+col153:
+0Спутник
+Заречье Парк
+Малая Охта
+Новоданиловская 8
+Живи! В Рыбацком
+Астрид
+Новое Колпино
+
+
+col154:
+0Живи! В Рыбацком
+Спутник
+Заречье Парк
+Малая Охта
+Новоданиловская 8
+Астрид
+Новое Колпино
+Сандэй
+
+
+col155:
+0Живи! В Рыбацком
+Новоданиловская 8
+Спутник
+Заречье Парк
+Малая Охта
+Остафьево
+Астрид
+Тропарево Парк
+Сандэй
+Новое Колпино
+Молжаниново
+
+
 col156:
-Верейская 41
+0Верейская 41
 Пятницкие Луга
 Живи! В Рыбацком
 Астрид
@@ -278,8 +686,31 @@ col156:
 Молжаниново
 
 
-col159:
+col157:
+0Живи! В Рыбацком
+Спутник
+Заречье Парк
+Малая Охта
+Новоданиловская 8
+Астрид
+Новое Колпино
+Сандэй
+
+
+col158:
+0Сандэй
+Спутник
 Живи! В Рыбацком
+Заречье Парк
+Малая Охта
+Новоданиловская 8
+Верейская 41
+Астрид
+Новое Колпино
+
+
+col159:
+0Живи! В Рыбацком
 Сандэй
 Спутник
 Малая Охта
@@ -296,7 +727,7 @@ col159:
 
 
 col160:
-Новоданиловская 8
+0Новоданиловская 8
 Живи! В Рыбацком
 Сандэй
 Верейская 41
@@ -318,8 +749,33 @@ col160:
 Рублевский Квартал
 
 
-col164:
+col161:
+0Параметры бронирования
 Успешная оплата
+Подтверждение брони
+Подтверждение номера
+
+
+col162:
+0Подтверждение номера
+Успешная оплата
+Подтверждение брони
+Параметры бронирования
+Данные покупателя
+
+
+col163:
+0Успешная оплата
+Подтверждение номера
+Данные покупателя
+Подтверждение брони
+Параметры бронирования
+Договор оферты
+Информация об аукционе
+
+
+col164:
+0Успешная оплата
 Параметры бронирования
 Подтверждение номера
 Подтверждение брони
@@ -329,8 +785,22 @@ col164:
 Возврат денег с сайта
 
 
-col167:
+col165:
+0Успешная оплата
+Данные покупателя
 Подтверждение номера
+
+
+col166:
+0Успешная оплата
+Подтверждение номера
+Данные покупателя
+Договор оферты
+Подтверждение брони
+
+
+col167:
+0Подтверждение номера
 Успешная оплата
 Данные покупателя
 Договор оферты
@@ -339,7 +809,7 @@ col167:
 
 
 col168:
-Договор оферты
+0Договор оферты
 Подтверждение номера
 Успешная оплата
 Данные покупателя
@@ -348,8 +818,90 @@ col168:
 Подтверждение брони
 
 
+col171:
+0АГЕНТСТВО НЕДВИЖИМОСТИ МАРИИ ТАРАСОВОЙ
+Юхоум
+РЕН_Тренд
+TrendAgent
+ООО МФОУК Перспектива24
+РЕН_Н-МАРКЕТ
+ИП Малявина Полина Викторовна
+ООО «Илис групп»
+RedCat
+
+
+col172:
+0"ООО ""Центр Развития Проектов"" Петербургская Недвижимость"""
+РЕН_Тренд
+АДВЕКС
+АГЕНТСТВО НЕДВИЖИМОСТИ МАРИИ ТАРАСОВОЙ
+Юхоум
+ООО МФОУК Перспектива24
+ООО ЦНС
+РЕН_Н-МАРКЕТ
+TrendAgent
+ИП Малявина Полина Викторовна
+ООО «Илис групп»
+"ООО ""Новостройки"" Мск"
+Инхаус
+РЕН_ЭТАЖИ
+ООО «ЭТАЖИ»
+ИП Лейман
+RedCat
+Перспектива 24 (федеральный)
+
+
+col174:
+0Мегаполис-Сочи
+АДВЕКС
+"ООО ""Центр Развития Проектов"" Петербургская Недвижимость"""
+TrendAgent
+РЕН_Тренд
+Юхоум
+РЕН_Н-МАРКЕТ
+Бюро Новостроек
+ООО МФОУК Перспектива24
+"ООО ""Новостройки"" Мск"
+Союз Девелоперов Москвы
+ИП Малявина Полина Викторовна
+PrilsGroup
+ООО «Вайтвилл»
+ООО «Илис групп»
+ИП Ободова Галина Вадимовна
+RedCat
+
+
+col175:
+0Мегаполис-Сочи
+РЕН_Тренд
+Инвестиционное агентство Волковой Татьяны
+АДВЕКС
+"ООО ""Центр Развития Проектов"" Петербургская Недвижимость"""
+TrendAgent
+ООО Элитная недвижимость
+АГЕНТСТВО НЕДВИЖИМОСТИ МАРИИ ТАРАСОВОЙ
+"ООО ""Новостройки"" Мск"
+Юхоум
+РЕН_ИТАКА
+ООО МФОУК Перспектива24
+ООО ЦНС
+"ООО ""Молодострой"""
+Военно-ипотечная компания
+Перспектива 24 (федеральный)
+ИП Малявина Полина Викторовна
+Бюро Новостроек
+Союз Девелоперов Москвы
+РЕН_ЭТАЖИ
+PrilsGroup
+ООО «Вайтвилл»
+ООО «Илис групп»
+РЕН_Н-МАРКЕТ
+ИП Ободова Галина Вадимовна
+RedCat
+
+
 col176:
-Кипмоскоу
+0Кипмоскоу
 Азбука
 Перспектива 24 (федеральный)
 РЕН_Тренд
@@ -388,8 +940,359 @@ PrilsGroup
 РЕН_ПАРТНЕР
 
 
+col183:
+0Кабинет
+Ванная комната
+Гостиная
+Спальня
+Кухня
+Прихожая
+Детская для мальчика
+Детская для девочки
+
+
+col184:
+0Кухня
+Кабинет
+Спальня
+Прихожая
+Ванная комната
+Гостиная
+Детская для девочки
+Детская для мальчика
+
+
+col185:
+0Прихожая
+Ванная комната
+Детская для мальчика
+Спальня
+Кухня
+Гостиная
+Кабинет
+Детская для девочки
+
+
+col186:
+0Ванная комната
+Прихожая
+Спальня
+Детская для мальчика
+Кухня
+Гостиная
+Кабинет
+Детская для девочки
+
+
+col187:
+0Прихожая
+Ванная комната
+Гостиная
+Спальня
+Детская для мальчика
+Кухня
+Кабинет
+Детская для девочки
+
+
+col188:
+0Кухня
+Прихожая
+Спальня
+Ванная комната
+Гостиная
+Детская для девочки
+Кабинет
+Детская для мальчика
+
+
+col191:
+0Скандинавский
+Лофт
+Современный
+231386.0 289193.0Классический
+ 48948.0Мебель 176932
+153916
+48948
+Мебель 198690
+
+
+col192:
+0Классический
+Скандинавский
+289193
+Лофт
+Современный
+231386
+158080
+Мебель 346598
+17083.0212454
+231386.0 48948.0
+Мебель 176932
+153916
+48948
+Мебель 198690
+
+
+col194:
+0Скандинавский
+Лофт
+Современный
+Мебель undefined
+Классический
+
+
+col195:
+0Лофт
+Скандинавский
+Классический
+Современный
+Мебель undefined
+ 500000.0
+
+
+col196:
+0Лофт
+Скандинавский
+Классический
+Современный
+Мебель undefined
+500000
+
+
+col202:
+0Комфорт
+Стандарт
+Бизнес
+Оптимум
+Комфорт Grey
+Стандарт Silver Style
+Стандарт White Gloss
+
+
+col203:
+0Стандарт
+Комфорт
+Бизнес
+Оптимум
+Комфорт Grey
+Стандарт Silver Style
+Стандарт White Gloss
+
+
+col204:
+0Стандарт
+Комфорт
+Комфорт Grey
+Оптимум
+Бизнес
+Бизнес Black Line
+Комфорт Capuccino
+Комфорт Cappuccino
+Стандарт Silver Style
+Стандарт White Gloss
+Оптимум Light Beige
+Комфорт<br>Grey / Oliva / Cappuccino / Bianco
+
+
+col205:
+0Стандарт
+Оптимум
+Комфорт
+
+
+col206:
+0Стандарт
+Комфорт
+Оптимум
+Стандарт Silver Style
+Стандарт White Gloss
+
+
+col207:
+0Стандарт
+Комфорт
+Оптимум
+Комфорт Oliva
+Стандарт Silver Style
+Бизнес
+Стандарт White Gloss
+
+
+col208:
+0Стандарт
+Комфорт
+Бизнес
+Стандарт Silver Style
+Оптимум
+Стандарт White Gloss
+Бизнес Black Line
+Комфорт Oliva
+
+
+col210:
+0Cappuccino
+Silver Style
+Black Line
+Light Beige
+White Gloss
+
+
+col211:
+0Silver Style
+Grey
+Cappuccino
+Black Line
+White Gloss
+Light Beige
+Oliva
+
+
+col212:
+0Silver Style
+Cappuccino
+Grey
+Light Beige
+White Gloss
+Black Line
+Bianco
+Oliva
+
+
+col213:
+0Silver Style
+Light Beige
+Cappuccino
+White Gloss
+Bianco
+
+
+col214:
+0Silver Style
+Cappuccino
+Light Beige
+White Gloss
+Black Line
+Bianco
+
+
+col215:
+0Silver Style
+Cappuccino
+Grey
+Light Beige
+White Gloss
+Black Line
+Bianco
+
+
+col216:
+0Silver Style
+Cappuccino
+Oliva
+Black Line
+Light Beige
+White Gloss
+Grey
+Bianco
+
+
+col221:
+0https://samolet.ru/project/novodanilovskaya-8/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
+https://samolet.ru/?xnpe_tifc=hIYJ4dhuhueN4DVdbfQNx9p.VuJrEfs_O.np4DQNxILutfbDb.zA4Fe.OGl7bfYJtIhsxDL.xunJhkYXOyXZOFUs4kb8xde_4.1XbDYX&utm_source=exponea&utm_campaign=%5Bbatch%5D%20130922%20%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20%D0%96%D0%B4%D1%83%D1%89%D0%B8%D0%B5%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&utm_medium=email
+https://samolet.ru/spb/account/login/?next=/spb/account/contracts/
+https://samolet.ru/account/login/?next=/account/payment/success/
+https://samolet.ru/account/login/?next=/account/contracts/
+https://samolet.ru/spb/
+https://samolet.ru/spb/ipoteka-001/
+https://samolet.ru/account/login/?next=/account/privilege
+https://samolet.ru/account/login/?next=/account/mortgage
+https://samolet.ru/storage/?&ordering=price&project=41&building=1208&
+https://samolet.ru/spb/purchase/mortgage/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&utm_content=36202219176_36202219176|cid|70577427|gid|4810189390|aid|11685225722|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_ipot&calltouch_tm=yd_c:70577427_gb:4810189390_ad:11685225722_ph:36202219176_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:36202219176_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQyNzsxMTY4NTIyNTcyMjt5YW5kZXgucnU6cHJlbWl1bQ&yclid=779263923214090239
+https://samolet.ru/account/login/?next=/account/
+https://samolet.ru/spb/account/login/?next=/account/documents
+https://samolet.ru/spb/account/login/
+https://samolet.ru/spb/account/login/?next=/spb/account/
+https://samolet.ru/spb/project/zhivi-v-rybackom/flats/113612/?project=25&amp;rooms=1&amp;ordering=filter_price,pk&amp;free=1&amp;building=549&amp;floor_min=16&amp;floor_max=16
+https://samolet.ru/account/login/?next=/account/flats/76981
+https://samolet.ru/
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=3&project=25
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_rf_33~zdu5nzk0|70309585&utm_term=samolet%20ru&utm_content=37970406538_37970406538|cid|70309585|gid|4794559256|aid|11618730943|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|67|text_top&calltouch_tm=yd_c:70309585_gb:4794559256_ad:11618730943_ph:37970406538_st:search_pt:premium_p:1_s:none_dt:mobile_reg:67_ret:37970406538_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDMwOTU4NTsxMTYxODczMDk0Mzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9766460512730873855
+https://samolet.ru/spb/flats/?project=29
+https://samolet.ru/spb/project/malaya-ohta/
+https://samolet.ru/faq/voprosy-o-pokupke/kak-zaregistrirovat-dogovor-dolevogo-uchastiya-v-r/
+https://samolet.ru/account/login/?next=/spb/account/contracts/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054672_|cid|68613244|gid|4864156255|aid|11914601657|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4864156255_ad:11914601657_ph:37376054672_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTkxNDYwMTY1Nzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=7574065494827991039
+https://samolet.ru/settlement/
+https://samolet.ru/spb/project/sunday/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=sunday_live_yd_s_brand_sunday_search_search_zk_text_spb-lo_33~mdvhzdaw|70577440&utm_term=%D1%81%D0%B0%D0%BD%D0%B4%D0%B5%D0%B9&utm_content=40326687291_40326687291|cid|70577440|gid|4986683914|aid|12514106133|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_planirovki&calltouch_tm=yd_c:70577440_gb:4986683914_ad:12514106133_ph:40326687291_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:40326687291_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQ0MDsxMjUxNDEwNjEzMzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9710875347622559743
+https://samolet.ru/flats/?free=1&rooms=1&area_min=35.6&area_max=36.8&project=7&floor_min=21&floor_max=24
+https://samolet.ru/project/sputnik/?ysclid=ldfuvxd6h3717422046
+
+
+col222:
+0https://samolet.ru/project/novodanilovskaya-8/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
+https://samolet.ru/account/login/?next=/account/flats/119817
+https://samolet.ru/
+https://samolet.ru/?xnpe_tifc=hIYJ4dhuhueN4DVdbfQNx9p.VuJrEfs_O.np4DQNxILutfbDb.zA4Fe.OGl7bfYJtIhsxDL.xunJhkYXOyXZOFUs4kb8xde_4.1XbDYX&utm_source=exponea&utm_campaign=%5Bbatch%5D%20130922%20%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20%D0%96%D0%B4%D1%83%D1%89%D0%B8%D0%B5%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&utm_medium=email
+https://samolet.ru/account/login/?next=/account/contracts/
+https://samolet.ru/spb/account/login/?next=/spb/account/contracts/
+https://samolet.ru/spb/project/zhivi-v-rybackom/?building=549
+https://samolet.ru/project/sputnik/flats/211172/
+https://samolet.ru/account/login/?next=/account/payment/success/
+https://samolet.ru/spb/
+https://samolet.ru/spb/ipoteka-001/
+https://samolet.ru/account/login/?next=/account/privilege
+https://samolet.ru/spb/project/zhivi-v-rybackom/
+https://samolet.ru/account/login/?next=/account/mortgage
+https://samolet.ru/storage/?&ordering=price&project=41&building=1208&
+https://samolet.ru/spb/purchase/mortgage/
+https://samolet.ru/flats/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&utm_content=36202219176_36202219176|cid|70577427|gid|4810189390|aid|11685225722|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_ipot&calltouch_tm=yd_c:70577427_gb:4810189390_ad:11685225722_ph:36202219176_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:36202219176_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQyNzsxMTY4NTIyNTcyMjt5YW5kZXgucnU6cHJlbWl1bQ&yclid=779263923214090239
+https://samolet.ru/project/sputnik/flats/70329/
+https://samolet.ru/account/login/?next=/account/flats/120083
+https://samolet.ru/account/login/?next=/account/
+https://samolet.ru/account/login/?next=/account/contracts/&xnpe_tifc=xkhuhFeNbfHXhkbXbdbXx9p.VuJrEfs_O.Euxfb7b.B.tIQsxFxAhfnpxCJNOFHltI1X4I1J4uH7OfHdOypsh.E_buHJOIssOfYXxkYj&utm_source=trigger&utm_campaign=5fda60366a5f43d3ecf4ee18-229&utm_medium=email&utm_content=29092021&utm_term=%D0%A1%D0%9F%D0%B1_%D0%9F%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%BB%D0%B0%D1%8F
+https://samolet.ru/spb/account/login/?next=/account/documents
+https://samolet.ru/account/login/?next=/account/mortgage/
+https://samolet.ru/spb/account/login/
+https://samolet.ru/spb/account/login/?next=/spb/account/
+https://samolet.ru/spb/project/sunday/
+https://samolet.ru/promo-sale/
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/spb/project/zhivi-v-rybackom/flats/113612/?project=25&amp;rooms=1&amp;ordering=filter_price,pk&amp;free=1&amp;building=549&amp;floor_min=16&amp;floor_max=16
+https://samolet.ru/account/login/?next=/account/flats/76981
+https://samolet.ru/account/login/?next=/account/flats/113994
+https://samolet.ru/spb/settlement/
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=3&project=25
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_rf_33~zdu5nzk0|70309585&utm_term=samolet%20ru&utm_content=37970406538_37970406538|cid|70309585|gid|4794559256|aid|11618730943|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|67|text_top&calltouch_tm=yd_c:70309585_gb:4794559256_ad:11618730943_ph:37970406538_st:search_pt:premium_p:1_s:none_dt:mobile_reg:67_ret:37970406538_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDMwOTU4NTsxMTYxODczMDk0Mzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9766460512730873855
+https://samolet.ru/spb/project/astrid/
+https://samolet.ru/account/login/?next=/account/contracts/&xnpe_tifc=xIzD4u4N4DQsOkU_OFolxjp.VuJrEfs_O.zj4FV8hundtIUNxI_AhfnpxCJNOFHltI1X4I1J4uH7OfHdOyXdbfhNhIYXbDY7xIsLxfbZ&utm_source=trigger&utm_campaign=5fda60366a5f43d3ecf4ee18-229&utm_medium=email&utm_content=29092021&utm_term=%D0%A1%D0%9F%D0%B1_%D0%9F%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%BB%D0%B0%D1%8F
+https://samolet.ru/spb/flats/?project=29
+https://samolet.ru/spb/project/malaya-ohta/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D0%B3%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=36027463502_|cid|70577427|gid|4800725302|aid|11670814612|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|98621|text_cena&calltouch_tm=yd_c:70577427_gb:4800725302_ad:11670814612_ph:36027463502_st:search_pt:premium_p:1_s:none_dt:desktop_reg:98621_ret:_apt:none&yclid=18166210634624794623
+https://samolet.ru/faq/voprosy-o-pokupke/kak-zaregistrirovat-dogovor-dolevogo-uchastiya-v-r/
+https://samolet.ru/spb/flats/?project=27&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/account/login/?next=/spb/account/contracts/
+https://samolet.ru/project/ostafevo/
+https://samolet.ru/spb/account/login/?next=/spb/account/flats/119468
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054672_|cid|68613244|gid|4864156255|aid|11914601657|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_cena&calltouch_tm=yd_c:68613244_gb:4864156255_ad:11914601657_ph:37376054672_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTkxNDYwMTY1Nzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=7574065494827991039
+https://samolet.ru/settlement/
+https://samolet.ru/account/login/
+https://samolet.ru/spb/flats/
+https://samolet.ru/spb/project/astrid/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=astrid_live_yd_s_brand_astrid_search_search_zk_text_spb-lo_33~y2rkmta1|70577409&utm_term=%D0%B0%D1%81%D1%82%D1%80%D0%B8%D0%B4%20%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D0%BD%D0%BE&utm_content=36027452054_36027452054|cid|70577409|gid|4800724114|aid|11771737459|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|2|text_infrastr&calltouch_tm=yd_c:70577409_gb:4800724114_ad:11771737459_ph:36027452054_st:search_pt:premium_p:1_s:none_dt:desktop_reg:2_ret:36027452054_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQwOTsxMTc3MTczNzQ1OTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=2771066437891522559
+https://samolet.ru/spb/project/sunday/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=sunday_live_yd_s_brand_sunday_search_search_zk_text_spb-lo_33~mdvhzdaw|70577440&utm_term=%D1%81%D0%B0%D0%BD%D0%B4%D0%B5%D0%B9&utm_content=40326687291_40326687291|cid|70577440|gid|4986683914|aid|12514106133|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_planirovki&calltouch_tm=yd_c:70577440_gb:4986683914_ad:12514106133_ph:40326687291_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:40326687291_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQ0MDsxMjUxNDEwNjEzMzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=9710875347622559743
+https://samolet.ru/flats/?free=1&rooms=1&area_min=35.6&area_max=36.8&project=7&floor_min=21&floor_max=24
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=36157125856_|cid|70577427|gid|4800725314|aid|11670814668|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|2|text_cena&calltouch_tm=yd_c:70577427_gb:4800725314_ad:11670814668_ph:36157125856_st:search_pt:premium_p:1_s:none_dt:desktop_reg:2_ret:_apt:none&yclid=10821889155846373375
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=samolet%20ru&utm_content=37376054827_|cid|68613244|gid|4767846385|aid|11492307722|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|98586|text_etazh&calltouch_tm=yd_c:68613244_gb:4767846385_ad:11492307722_ph:37376054827_st:search_pt:premium_p:1_s:none_dt:mobile_reg:98586_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzcyMjt5YW5kZXgucnU6cHJlbWl1bQ&yclid=3378467919914860543
+https://samolet.ru/spb/project/zhivi-v-rybackom/?building=548
+https://samolet.ru/project/sputnik/?ysclid=ldfuvxd6h3717422046
+
+
 col223:
-https://samolet.ru/project/novodanilovskaya-8/
+0https://samolet.ru/project/novodanilovskaya-8/
 https://samolet.ru/flats/?free=1&ordering=filter_price,pk&project=25&rooms=0&area_min=24&area_max=27.44
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/account/login/?next=/account/
@@ -498,7 +1401,7 @@ https://samolet.ru/account/login/?next=/account/contracts/&xnpe_tifc=OfULbdxjhFL
 
 
 col224:
-https://samolet.ru/project/novodanilovskaya-8/
+0https://samolet.ru/project/novodanilovskaya-8/
 https://samolet.ru/flats/?free=1&ordering=filter_price,pk&project=25&rooms=0&area_min=24&area_max=27.44
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_rf_33~zdu5nzk0|70309585&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=41118328791_41118328791|cid|70309585|gid|4794559256|aid|11618730943|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|973|text_top&calltouch_tm=yd_c:70309585_gb:4794559256_ad:11618730943_ph:41118328791_st:search_pt:premium_p:1_s:none_dt:mobile_reg:973_ret:41118328791_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDMwOTU4NTsxMTYxODczMDk0Mzt5YW5kZXgucnU6cHJlbWl1bQ&yclid=8501193871075049471
@@ -700,7 +1603,7 @@ https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=sam
 
 
 col225:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/spb/account/login/?next=/spb/account/#popup-parking-booking-success?project=sunday&price=8473479&orderId=442a690f-59bd-75d9-b74d-521e025fa050&lang=ru
 https://samolet.ru/account/login/?next=/account/flats/119817
@@ -765,7 +1668,7 @@ https://samolet.ru/project/sputnik/?ysclid=ldfuvxd6h3717422046
 
 
 col226:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/spb/
 https://samolet.ru/account/login/?next=/account/
@@ -863,7 +1766,7 @@ https://samolet.ru/spb/flats/?rooms=3&project=25&building=549
 
 
 col227:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/spb/
 https://samolet.ru/account/login/?next=/account/flats/165351
@@ -1006,7 +1909,7 @@ https://samolet.ru/spb/news/
 
 
 col228:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_rf_brand_spb_common_search_search_samolet_text_rf_33~n2jmmjvj|76037737&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D0%BF%D0%B1&utm_content=39756956308_|cid|76037737|gid|4961640683|aid|12383135333|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|146|text_otdelka&calltouch_tm=yd_c:76037737_gb:4961640683_ad:12383135333_ph:39756956308_st:search_pt:premium_p:1_s:none_dt:mobile_reg:146_ret:_apt:none&etext=2202.465i0WoRE91Vhg5hfO__-SXoAFTqrEasm4_yLlravAzZkgQ4UrNdZStpSvJ1VaBkeG93cmN1cG9mcXpzcXZmeA.a5b0aa264316e87d30f5440e341ff5a272bd6f71&yclid=5499149254964339587
 https://samolet.ru/spb/
 https://samolet.ru/account/login/?next=/account/flats/165351
@@ -1222,8 +2125,74 @@ https://samolet.ru/project/sputnik/flats/145489/
 https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120115|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|2|text_cena&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120115_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:desktop_reg:2_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQyNzsxMjA5NjEyMDExNTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=14250653638147702783
 
 
+col238:
+0
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWsxD_ZbIVXOCl7xIs.tfU.xIYAb.zZ4ClXxFoX4IhNOFe_hfoT&u=79217810142
+https://samolet.ru/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6DbdPL4dol4ZJsxkUstfU.xIYAb.zZ4GlXxFoX4IhNOFsN4.zT&u=79161896708&project=27
+https://samolet.ru/spb/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6p4D_7xF_pxNlJOFxjtIQLbI1AOfYJOGl7h.YZbDYdxFbdhFxT&u=79216371127
+https://samolet.ru/parking/?&ordering=price&project=41&building=1729&
+https://samolet.ru/parking/?project=25&price_min=null&price_max=null
+https://samolet.ru/parking/?project=7&price_min=1678348&price_max=2979003&is_regular=1
+https://samolet.ru/parking/?project=7&is_family=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF67hFzJ4IBL4Zll4DELtIQN4D_AOFVj4GJ_xuHpOFx7bdP.b.zT&u=79148691196
+https://samolet.ru/storage/?ordering=price&free=1&project=7&building=499&offset=40&limit=10
+https://samolet.ru/parking/?
+https://samolet.ru/spb/parking/?ordering=price&project=25&building=655&is_family=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4f4sx.zJ4ZJN4DsutfU.xIYAb.zZxNlXxFoX4IhNOkYjxuxT&u=79111646665
+https://samolet.ru/parking/?project=41&is_family=1
+https://samolet.ru/parking/?project=21&is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWL4ubjhkb7xGlpxfbZtfU.xIYAb.zZxZlXxFoX4IhNOFHJbdnT&u=79522356598
+https://samolet.ru/spb/parking/?project=25
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6Xx.suhFB_xCJLOkhstfU.xIYAb.zZxZlXxFoX4IhNOkYjxuxT&u=79819832137
+https://samolet.ru/parking/?is_family=1
+https://samolet.ru/parking/?project=7
+https://samolet.ru/spb/parking/?ordering=price&building=446
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFW.bIhsxdoDOGlpxDQstfU_xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79146198538
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4kQ_4D_dOCJ.h.z8tIQu4FzAbIQu4NllOIs.bdnpxko7bI1T&u=79119702839
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6jbIo7bInJbCJ_hfb8tfU.xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79516539230
+
+
+col239:
+0
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWsxD_ZbIVXOCl7xIs.tfU.xIYAb.zZ4ClXxFoX4IhNOFe_hfoT&u=79217810142
+https://samolet.ru/spb/parking/
+https://samolet.ru/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6DbdPL4dol4ZJsxkUstfU.xIYAb.zZ4GlXxFoX4IhNOFsN4.zT&u=79161896708&project=27
+https://samolet.ru/parking/?project=23
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6p4D_7xF_pxNlJOFxjtIQLbI1AOfYJOGl7h.YZbDYdxFbdhFxT&u=79216371127
+https://samolet.ru/parking/?project=25
+https://samolet.ru/parking/?&ordering=price&project=41&building=1729&
+https://samolet.ru/parking/?project=25&price_min=null&price_max=null
+https://samolet.ru/parking/?project=7&price_min=1678348&price_max=2979003&is_regular=1
+https://samolet.ru/spb/parking/?
+https://samolet.ru/parking/?project=7&is_family=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF67hFzJ4IBL4Zll4DELtIQN4D_AOFVj4GJ_xuHpOFx7bdP.b.zT&u=79148691196
+https://samolet.ru/parking/?project=7
+https://samolet.ru/storage/?ordering=price&free=1&project=7&building=499&offset=40&limit=10
+https://samolet.ru/spb/parking/?project=25&is_regular=1
+https://samolet.ru/spb/parking/?project=27&is_regular=1&price_min=500000&price_max=610000
+https://samolet.ru/parking/?
+https://samolet.ru/spb/parking/?ordering=price&project=25&building=655&is_family=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4f4sx.zJ4ZJN4DsutfU.xIYAb.zZxNlXxFoX4IhNOkYjxuxT&u=79111646665
+https://samolet.ru/parking/?project=41&is_family=1
+https://samolet.ru/parking/?project=21&is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWL4ubjhkb7xGlpxfbZtfU.xIYAb.zZxZlXxFoX4IhNOFHJbdnT&u=79522356598
+https://samolet.ru/spb/parking/?project=25
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6Xx.suhFB_xCJLOkhstfU.xIYAb.zZxZlXxFoX4IhNOkYjxuxT&u=79819832137
+https://samolet.ru/parking/?is_family=1
+https://samolet.ru/spb/parking/?ordering=price&building=446
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFW.bIhsxdoDOGlpxDQstfU_xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79146198538
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4kQ_4D_dOCJ.h.z8tIQu4FzAbIQu4NllOIs.bdnpxko7bI1T&u=79119702839
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6jbIo7bInJbCJ_hfb8tfU.xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79516539230
+https://samolet.ru/parking/?ordering=price&project=21&building=711
+https://samolet.ru/parking/?&ordering=price&project=21&building=711&
+https://samolet.ru/spb/parking/?&ordering=price&project=25&building=1209&
+
+
 col240:
-https://samolet.ru/parking/?project=21
+0https://samolet.ru/parking/?project=21
 https://samolet.ru/spb/parking/
 https://samolet.ru/parking/?project=7&building=789&price_min=2129850&price_max=2129850&is_family=1
 https://samolet.ru/parking/?project=7
@@ -1279,8 +2248,88 @@ https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%2011
 https://samolet.ru/parking/?&ordering=price&project=7&building=78&
 
 
+col241:
+0https://samolet.ru/parking/?project=21&is_regular=1
+https://samolet.ru/parking/?&ordering=price&project=41&building=1729&
+https://samolet.ru/parking/?project=25&price_min=null&price_max=null
+https://samolet.ru/parking/?project=7
+https://samolet.ru/storage/?ordering=price&free=1&project=7&building=499&offset=40&limit=10
+https://samolet.ru/parking/
+https://samolet.ru/spb/parking/
+https://samolet.ru/parking/?project=25
+https://samolet.ru/parking/?project=41
+https://samolet.ru/spb/parking/?&ordering=price&project=25&building=655&
+https://samolet.ru/parking/?
+https://samolet.ru/parking/?is_family=1
+
+
+col242:
+0https://samolet.ru/parking/?project=21&is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWsxD_ZbIVXOCl7xIs.tfU.xIYAb.zZ4ClXxFoX4IhNOFe_hfoT&u=79217810142
+https://samolet.ru/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6DbdPL4dol4ZJsxkUstfU.xIYAb.zZ4GlXxFoX4IhNOFsN4.zT&u=79161896708
+https://samolet.ru/spb/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6p4D_7xF_pxNlJOFxjtIQLbI1AOfYJOGl7h.YZbDYdxFbdhFxT&u=79216371127
+https://samolet.ru/parking/?&ordering=price&project=41&building=1729&
+https://samolet.ru/parking/?project=25&price_min=null&price_max=null
+https://samolet.ru/parking/?project=7
+https://samolet.ru/parking/?project=25
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF67hFzJ4IBL4Zll4DELtIQN4D_AOFVj4GJ_xuHpOFx7bdP.b.zT&u=79148691196
+https://samolet.ru/storage/?ordering=price&free=1&project=7&building=499&offset=40&limit=10
+https://samolet.ru/parking/?
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4f4sx.zJ4ZJN4DsutfU.xIYAb.zZxNlXxFoX4IhNOkYjxuxT&u=79111646665
+https://samolet.ru/parking/?project=41
+https://samolet.ru/spb/parking/?&ordering=price&project=25&building=1209&
+https://samolet.ru/spb/parking/?&ordering=price&project=25&building=655&
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWL4ubjhkb7xGlpxfbZtfU.xIYAb.zZxZlXxFoX4IhNOFHJbdnT&u=79522356598
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6Xx.suhFB_xCJLOkhstfU.xIYAb.zZxZlXxFoX4IhNOkYjxuxT&u=79819832137
+https://samolet.ru/parking/?is_family=1
+https://samolet.ru/spb/parking/?&ordering=price&project=27&building=446&
+https://samolet.ru/parking/?&ordering=price&project=21&building=711&
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFW.bIhsxdoDOGlpxDQstfU_xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79146198538
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4kQ_4D_dOCJ.h.z8tIQu4FzAbIQu4NllOIs.bdnpxko7bI1T&u=79119702839
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6jbIo7bInJbCJ_hfb8tfU.xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79516539230
+https://samolet.ru/spb/parking/?project=23
+
+
+col243:
+0https://samolet.ru/parking/?project=21&is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWsxD_ZbIVXOCl7xIs.tfU.xIYAb.zZ4ClXxFoX4IhNOFe_hfoT&u=79217810142
+https://samolet.ru/spb/parking/
+https://samolet.ru/parking/
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6DbdPL4dol4ZJsxkUstfU.xIYAb.zZ4GlXxFoX4IhNOFsN4.zT&u=79161896708
+https://samolet.ru/parking/?project=23
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6p4D_7xF_pxNlJOFxjtIQLbI1AOfYJOGl7h.YZbDYdxFbdhFxT&u=79216371127
+https://samolet.ru/parking/?project=25
+https://samolet.ru/parking/?&ordering=price&project=41&building=1729&
+https://samolet.ru/parking/?project=25&price_min=null&price_max=null
+https://samolet.ru/spb/parking/?project=27&building=1173&
+https://samolet.ru/parking/?project=7
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF67hFzJ4IBL4Zll4DELtIQN4D_AOFVj4GJ_xuHpOFx7bdP.b.zT&u=79148691196
+https://samolet.ru/storage/?ordering=price&free=1&project=7&building=499&offset=40&limit=10
+https://samolet.ru/parking/?
+https://samolet.ru/parking/?is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4f4sx.zJ4ZJN4DsutfU.xIYAb.zZxNlXxFoX4IhNOkYjxuxT&u=79111646665
+https://samolet.ru/parking/?project=41
+https://samolet.ru/spb/parking/?&ordering=price&project=25&building=1209&
+https://samolet.ru/spb/parking/?
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFWL4ubjhkb7xGlpxfbZtfU.xIYAb.zZxZlXxFoX4IhNOFHJbdnT&u=79522356598
+https://samolet.ru/spb/parking/?project=25
+https://samolet.ru/parking/?&ordering=price&project=21&building=711&
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6Xx.suhFB_xCJLOkhstfU.xIYAb.zZxZlXxFoX4IhNOkYjxuxT&u=79819832137
+https://samolet.ru/parking/?ordering=price&project=21&building=711
+https://samolet.ru/parking/?is_family=1
+https://samolet.ru/spb/parking/?&ordering=price&project=27&building=1173&
+https://samolet.ru/parking/?project=7&is_regular=1
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhFW.bIhsxdoDOGlpxDQstfU_xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79146198538
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6X4kQ_4D_dOCJ.h.z8tIQu4FzAbIQu4NllOIs.bdnpxko7bI1T&u=79119702839
+https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&utm_medium=sms&utm_content=%5Bbatch%5D%20111122%20%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B2%20%D1%80%D0%B0%D1%81%D1%81%D1%80%D0%BE%D1%87%D0%BA%D1%83_%D0%A1%D0%9F%D0%B1&iitt=bjPAMjUWhF6jbIo7bInJbCJ_hfb8tfU.xIYAb.zZxNlXxFoX4IhNOkYdhF_T&u=79516539230
+https://samolet.ru/parking/?ordering=price&project=21&building=711&is_family=1
+https://samolet.ru/spb/parking/?project=23
+
+
 col244:
-https://samolet.ru/parking/?project=21
+0https://samolet.ru/parking/?project=21
 https://samolet.ru/parking/?project=25
 https://samolet.ru/spb/parking/
 https://samolet.ru/parking/?project=7&building=789&price_min=1936228&price_max=2857479
@@ -1328,8 +2377,165 @@ https://samolet.ru/spb/parking/?utm_source=exponea&utm_campaign=%5Bbatch%5D%2011
 https://samolet.ru/parking/?&ordering=price&project=7&building=791&
 
 
+col457:
+0https://samolet.ru/flats/?project=7&building=1554&
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&price_min=4513120&price_max=6339618&project=25&rooms=1&floor_min=8&floor_max=16&building=586
+https://samolet.ru/flats/?project=41&building=475&
+https://samolet.ru/spb/flats/?project=25&rooms=1
+https://samolet.ru/flats/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_autotargeting_nobrand_samoletgroup_network_autotargeting_autotargeting_tgb_mmo_33~zdm2njyw|76274507&utm_term=&utm_content=39875711158_39875711158|cid|76274507|gid|4968331011|aid|12415071087|adp|no|pos|none0|src|context_mail.yandex.ru|dvc|desktop|reg|213|text_metr|pic_winter_ostafevo_v1&calltouch_tm=yd_c:76274507_gb:4968331011_ad:12415071087_ph:39875711158_st:context_pt:none_p:0_s:mail.yandex.ru_dt:desktop_reg:213_ret:39875711158_apt:none&yclid=6991801706867124549
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&rooms=1&has_kitchen=1&settling_date=20243
+https://samolet.ru/project/zarechye-park/
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25,27
+https://samolet.ru/spb/flats/?project=25&rooms=0&ordering=filter_price,pk&free=1&building=549
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?free=1&project=7&rooms=2
+https://samolet.ru/flats/?project=57&rooms=2&ordering=filter_price,pk&free=1
+https://samolet.ru/project/novodanilovskaya-8/
+https://samolet.ru/spb/flats/?project=27&rooms=1&settling=2024%2B
+https://samolet.ru/flats/
+https://samolet.ru/spb/flats/?project=25&rooms=1&ordering=filter_price,pk&free=1&area_min=38.5&area_max=44.87
+https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25&building=585,583&floor_min=1&floor_max=16&rooms=1
+https://samolet.ru/spb/flats/?project=29&rooms=2
+https://samolet.ru/spb/flats/?project=25&rooms=1&price_min=6256590&price_max=13674616&ordering=filter_price,pk&building=550&renovation=1&has_kitchen=1&promo=1
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&area_min=20.16&area_max=39.8&price_min=3399373&price_max=10103295&rooms=1&project=25
+https://samolet.ru/flats/?rooms=3&project=7&building=608
+https://samolet.ru/spb/flats/?project=25&ordering=filter_price,pk&free=1&building=549
+https://samolet.ru/spb/flats/?project=25&ordering=-area,pk&building=549&rooms=2
+https://samolet.ru/spb/flats/?project=25&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/flats/?project=7&building=450&ordering=filter_price,pk&free=1&area_min=29&area_max=32
+https://samolet.ru/flats/?free=1&ordering=filter_price,pk&rooms=1&area_min=30&area_max=56&floor_min=2&floor_max=10&project=7
+https://samolet.ru/flats/?ordering=-area,pk&free=1&floor_min=15&floor_max=30&area_min=39&area_max=103
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&discount=1&building=548
+https://samolet.ru/spb/flats/?project=28&building=535&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/spb/flats/?project=29&rooms=1,3,4
+https://samolet.ru/flats/?project=57&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=549&ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?project=21
+https://samolet.ru/flats/?rooms=1&project=7&building=608
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&project=41&rooms=1&area_min=34.1&area_max=37.32&settling_date=20224
+https://samolet.ru/spb/flats/?project=23&rooms=1
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=1&project=25&area_min=32.6&area_max=44.87&has_balcony=1&renovation=1&floor_min=2&floor_max=21
+https://samolet.ru/spb/flats/
+https://samolet.ru/flats/?project=7&ordering=filter_price,pk&free=1&rooms=1&settling_date=20243&building=773&window_view=%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B4%D1%83
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&rooms=3&building=549
+https://samolet.ru/flats/?project=68188&rooms=1&ordering=filter_price,pk&free=1&area_min=32.31&area_max=38.36
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=2&project=29
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25
+https://samolet.ru/spb/project/zhivi-v-rybackom/
+https://samolet.ru/spb/flats/?project=29
+https://samolet.ru/flats/?project=7&rooms=1&settling=2024&ordering=filter_price,pk&free=1&settling_date=20241,20242,20243,20244&area_min=33&area_max=49.19&building=773&floor_min=14&floor_max=29
+https://samolet.ru/spb/flats/?rooms=3&project=25&building=549
+https://samolet.ru/spb/flats/?project=27&ordering=-filter_price,pk
+
+
+col458:
+0https://samolet.ru/flats/?project=7
+https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
+https://samolet.ru/flats/?free=1&ordering=-filter_price,pk&project=7&rooms=1&price_min=6851881&price_max=8964445&area_min=33.5&area_max=34.2
+https://samolet.ru/flats/?project=7&price_min=5574038&price_max=10873459&ordering=filter_price,pk&free=1&settling_date=20244&area_min=33&area_max=49.19
+https://samolet.ru/spb/flats/?project=23&rooms=3&ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&project=7&layout=2378&area_min=35.54&area_max=35.65&price_min=9054809&price_max=9158914
+https://samolet.ru/flats/?project=7&building=552&ordering=filter_price,pk&free=1&rooms=1&floor_min=15&floor_max=21&area_min=32&area_max=39.69
+https://samolet.ru/flats/?project=7&building=1554&
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&price_min=4513120&price_max=6339618&project=25&rooms=1&floor_min=8&floor_max=16&building=586
+https://samolet.ru/spb/flats/?project=25&rooms=0&ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&renovation=1&has_kitchen=1&rooms=3&area_min=59&area_max=92.1&settling_date=20241&layout=9090
+https://samolet.ru/spb/flats/?project=25&building=548&
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&project=7&rooms=1&layout=3805
+https://samolet.ru/flats/?project=41&building=475&
+https://samolet.ru/spb/flats/?project=25&rooms=1
+https://samolet.ru/flats/?utm_source=yandex_network&utm_medium=cpc&utm_campaign=samolet_live_yd_n_autotargeting_nobrand_samoletgroup_network_autotargeting_autotargeting_tgb_mmo_33~zdm2njyw|76274507&utm_term=&utm_content=39875711158_39875711158|cid|76274507|gid|4968331011|aid|12415071087|adp|no|pos|none0|src|context_mail.yandex.ru|dvc|desktop|reg|213|text_metr|pic_winter_ostafevo_v1&calltouch_tm=yd_c:76274507_gb:4968331011_ad:12415071087_ph:39875711158_st:context_pt:none_p:0_s:mail.yandex.ru_dt:desktop_reg:213_ret:39875711158_apt:none&yclid=6991801706867124549
+https://samolet.ru/spb/flats/?project=23
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=1&area_min=35.7&area_max=52.27&settling_date=20234&project=25
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=0&project=25&price_min=4800000&price_max=5498936&building=550
+https://samolet.ru/flats/
+https://samolet.ru/flats/?utm_source=yandex&utm_medium=cpc&utm_campaign=samolet_live_yd_mk_flats_nobrand_samoletgroup_search_general-novostroy_tgb_mmo_33~ymmzyzbj|76087935&utm_term=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA&utm_content=39869506722_|cid|76087935|gid|4963166550|aid|12390417414|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|98634&calltouch_tm=yd_c:76087935_gb:4963166550_ad:12390417414_ph:39869506722_st:search_pt:premium_p:1_s:none_dt:desktop_reg:98634_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3NjA4NzkzNTsxMjM5MDQxNzQxNDt5YW5kZXgucnU6cHJlbWl1bQ&yclid=7768186336873283583
+https://samolet.ru/spb/flats/?project=25&rooms=0
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&rooms=1&has_kitchen=1&settling_date=20243
+https://samolet.ru/project/zarechye-park/
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25,27
+https://samolet.ru/spb/flats/?project=25&rooms=0&ordering=filter_price,pk&free=1&building=549
+https://samolet.ru/spb/flats/?project=25&rooms=1&settling=2023&ordering=filter_price,pk&free=1&settling_date=20231,20233,20232
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?free=1&project=7&rooms=2
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=23
+https://samolet.ru/spb/flats/
+https://samolet.ru/spb/flats/?rooms=1&project=25&building=548
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=1&floor_min=2&floor_max=23&price_min=5873982&price_max=6600285&area_min=33&area_max=39
+https://samolet.ru/flats/?project=57&rooms=2&ordering=filter_price,pk&free=1
+https://samolet.ru/spb/flats/?project=29
+https://samolet.ru/project/novodanilovskaya-8/
+https://samolet.ru/spb/flats/?project=25&building=547&
+https://samolet.ru/spb/flats/?project=27&rooms=1&settling=2024%2B
+https://samolet.ru/spb/flats/?project=25&rooms=1&ordering=filter_price,pk&free=1&area_min=38.5&area_max=44.87
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&project=7&rooms=2&building=563
+https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25&building=585,583&floor_min=1&floor_max=16&rooms=1
+https://samolet.ru/spb/flats/?project=25&rooms=2
+https://samolet.ru/spb/flats/?project=29&rooms=2
+https://samolet.ru/spb/flats/?project=25&rooms=1&price_min=6256590&price_max=13674616&ordering=filter_price,pk&building=550&renovation=1&has_kitchen=1&promo=1
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&has_furniture_set=1&rooms=3
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&area_min=20.16&area_max=39.8&price_min=3399373&price_max=10103295&rooms=1&project=25
+https://samolet.ru/flats/?free=1&project=40&rooms=1&ordering=filter_price,pk&area_min=30.3&area_max=36.8&has_balcony=1&renovation=1
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&layout=4881
+https://samolet.ru/flats/?rooms=3&project=7&building=608
+https://samolet.ru/spb/flats/?project=25&building=549&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/spb/flats/?project=25&ordering=filter_price,pk&free=1&building=549
+https://samolet.ru/flats/?utm_source=yandex&utm_medium=cpc&utm_campaign=samolet_live_yd_mk_nobrand_samoletgroup_autotargeting_autotargeting_tgb_rf_33~ytzlytuw|79551072&utm_term=&utm_content=41579359583_|cid|79551072|gid|5052875252|aid|12908921107|adp|no|pos|none0|src|context_ura.news|dvc|mobile|reg|50&calltouch_tm=yd_c:79551072_gb:5052875252_ad:12908921107_ph:41579359583_st:context_pt:none_p:0_s:ura.news_dt:mobile_reg:50_ret:_apt:none&yclid=6184423736082759445
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=549
+https://samolet.ru/spb/flats/?ordering=-area,pk&promo=1&floor_min=2&floor_max=11&area_min=19.99&area_max=26.92&has_kitchen=1&renovation=1&project=25&rooms=0&discount=1&settling_date=20234&free=1&price_min=4807282&price_max=5442903
+https://samolet.ru/spb/flats/?project=25&ordering=-area,pk&building=549&rooms=2
+https://samolet.ru/spb/flats/?project=25&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/flats/?ordering=filter_price,pk&has_furniture_set=1&free=1
+https://samolet.ru/flats/?project=7&building=450&ordering=filter_price,pk&free=1&area_min=29&area_max=32
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&rooms=3&area_min=73&area_max=77.67&layout=5567
+https://samolet.ru/spb/flats/?rooms=3&project=25&building=583
+https://samolet.ru/flats/?free=1&ordering=filter_price,pk&rooms=1&area_min=30&area_max=56&floor_min=2&floor_max=10&project=7
+https://samolet.ru/flats/?ordering=-area,pk&free=1&floor_min=15&floor_max=30&area_min=39&area_max=103
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&discount=1&building=548
+https://samolet.ru/spb/flats/?project=28&building=535&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/spb/flats/?project=29&rooms=1,3,4
+https://samolet.ru/flats/?project=5&rooms=2,3&settling=2023,2024%2B&ordering=-filter_price,pk&free=1&settling_date=20231,20232,20233,20234&layout=6221
+https://samolet.ru/flats/?project=7&ordering=filter_price,pk&free=1&rooms=2,3&area_min=56.6&area_max=82.9
+https://samolet.ru/flats/?project=57&ordering=filter_price,pk&free=1&rooms=2
+https://samolet.ru/flats/?project=7&ordering=filter_price,pk&free=1&rooms=1&area_min=34&area_max=49.19
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=549&ordering=filter_price,pk&free=1
+https://samolet.ru/flats/?project=21
+https://samolet.ru/spb/flats/?project=27
+https://samolet.ru/flats/?rooms=1&project=7&building=608
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&project=41&rooms=1&area_min=34.1&area_max=37.32&settling_date=20224
+https://samolet.ru/spb/flats/?project=23&rooms=1
+https://samolet.ru/project/sputnik/
+https://samolet.ru/flats/?project=57&rooms=2
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=1&project=25&area_min=32.6&area_max=44.87&has_balcony=1&renovation=1&floor_min=2&floor_max=21
+https://samolet.ru/flats/?project=7&ordering=filter_price,pk&free=1&rooms=1&settling_date=20243&building=773&window_view=%D0%BD%D0%B0%20%D0%B2%D0%BE%D0%B4%D1%83
+https://samolet.ru/flats/?ordering=filter_price,pk&free=1&rooms=1
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&layout=3586
+https://samolet.ru/spb/flats/?project=27&rooms=1&ordering=filter_price,pk&free=1
+https://samolet.ru/spb/flats/?project=25&ordering=filter_price,pk&free=1&renovation=1&rooms=0&has_kitchen=1
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&rooms=3&building=549
+https://samolet.ru/flats/?project=23&amp;ordering=filter_price,pk&amp;free=1&amp;building=361,362&amp;rooms=0&amp;floor_min=8&amp;floor_max=8
+https://samolet.ru/flats/?project=68188&rooms=1&ordering=filter_price,pk&free=1&area_min=32.31&area_max=38.36
+https://samolet.ru/flats/#popup-parking-booking-error?orderId=0e26bc66-1458-7a1c-887c-083a025fa050&lang=ru
+https://samolet.ru/project/verejskaya-41/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=verejskaya_live_yd_s_brand_verejskaya_41_search_search_zk_text_mmo_33~odrlzgy4|71629116&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%B2%D0%B5%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2041&utm_content=36705622381_36705622381|cid|71629116|gid|4832653929|aid|11783823710|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|213|title_start_prodazh&calltouch_tm=yd_c:71629116_gb:4832653929_ad:11783823710_ph:36705622381_st:search_pt:premium_p:1_s:none_dt:mobile_reg:213_ret:36705622381_apt:none&etext=2202.vffMU9v8sV_S0Xvs8I7Q2yn2DmIOKm7M_pgDCoND1RD7ChUV_9XtnRGlsgnMiDwFanJrcWp0ZWtiYndjbG90Zg.f94a8d8b23c33c31e51a3cff0d48339d0e49ff9c&yclid=18392761812984334520
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&rooms=2&project=29
+https://samolet.ru/flats/?project=41&rooms=2&ordering=filter_price,pk&free=1&building=1728&price_min=11495127&price_max=13063516
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25
+https://samolet.ru/spb/project/zhivi-v-rybackom/
+https://samolet.ru/flats/?project=41&rooms=3&price_min=13491002&price_max=16903503&settling=2023
+https://samolet.ru/flats/?free=1&ordering=filter_price,pk
+https://samolet.ru/flats/?project=55&rooms=0&settling=2023
+https://samolet.ru/spb/flats/?project=25&building=583&
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=548
+https://samolet.ru/spb/flats/?rooms=3&project=29&building=411
+https://samolet.ru/spb/flats/?project=28&rooms=2,3&ordering=filter_price,pk&free=1&settling_date=20244,20252&floor_min=2&floor_max=11&layout=9020
+https://samolet.ru/flats/?project=7&rooms=1&settling=2024&ordering=filter_price,pk&free=1&settling_date=20241,20242,20243,20244&area_min=33&area_max=49.19&building=773&floor_min=14&floor_max=29
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=25&layout=4594
+https://samolet.ru/spb/flats/?rooms=3&project=25&building=549
+https://samolet.ru/spb/flats/?project=27&ordering=-filter_price,pk
+
+
 col459:
-https://samolet.ru/flats/?project=7
+0https://samolet.ru/flats/?project=7
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/spb/flats/?project=29&rooms=1&ordering=filter_price,pk&free=1
 https://samolet.ru/spb/flats/?project=25&rooms=2&ordering=filter_price,pk&free=1&settling_date=20232
@@ -1515,7 +2721,7 @@ https://samolet.ru/spb/flats/?project=27&ordering=-filter_price,pk
 
 
 col460:
-https://samolet.ru/flats/?project=7
+0https://samolet.ru/flats/?project=7
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/flats/
 https://samolet.ru/flats/?project=57&rooms=3,4
@@ -1914,7 +3120,7 @@ https://samolet.ru/spb/flats/?project=27&ordering=-filter_price,pk
 
 
 col461:
-
+0
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/spb/flats/
 https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=23&layout=3968
@@ -2046,7 +3252,7 @@ https://samolet.ru/spb/flats/?ordering=-filter_price,pk&free=1
 
 
 col462:
-https://samolet.ru/flats/?project=7
+0https://samolet.ru/flats/?project=7
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/spb/flats/
 https://samolet.ru/flats/?ordering=filter_price,pk&free=1&layout=7258
@@ -2256,7 +3462,7 @@ https://samolet.ru/spb/flats/?ordering=-filter_price,pk&free=1&project=27
 
 
 col463:
-https://samolet.ru/flats/?project=7
+0https://samolet.ru/flats/?project=7
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/spb/flats/
 https://samolet.ru/flats/?ordering=filter_price,pk&free=1&rooms=4&project=57
@@ -2555,7 +3761,7 @@ https://samolet.ru/spb/flats/?ordering=-filter_price,pk&free=1&project=27
 
 
 col464:
-https://samolet.ru/flats/?project=7
+0https://samolet.ru/flats/?project=7
 https://samolet.ru/flats/?project=21
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25
 https://samolet.ru/spb/flats/
@@ -2960,15 +4166,27 @@ https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&layout=7062
 https://samolet.ru/spb/flats/?ordering=-filter_price,pk&free=1
 
 
+col465:
+0filter_price_asc
+area_desc
+filter_price_desc
+
+
+col466:
+0filter_price_asc
+filter_price_desc
+area_desc
+
+
 col467:
-filter_price_asc
+0filter_price_asc
 filter_price_desc
 area_desc
 price_asc
 
 
 col468:
-filter_price_asc
+0filter_price_asc
 filter_price_desc
 price_asc
 _desc
@@ -2978,26 +4196,26 @@ area_asc
 
 
 col469:
-filter_price_asc
+0filter_price_asc
 _desc
 area_desc
 
 
 col470:
-filter_price_asc
+0filter_price_asc
 price_asc
 area_desc
 
 
 col471:
-filter_price_asc
+0filter_price_asc
 price_asc
 area_desc
 _desc
 
 
 col472:
-filter_price_asc
+0filter_price_asc
 area_desc
 price_asc
 _desc
@@ -3005,55 +4223,68 @@ filter_price%2Cpk_asc
 a_asc
 
 
+col513:
+0page_load
+scroll
+
+
 col514:
-page_load
+0page_load
 scroll
 click
 
 
 col515:
-page_load
+0page_load
 scroll
 move
 click
 
 
 col516:
-page_load
+0page_load
 scroll
 move
 click
 
 
 col517:
-page_load
+0page_load
 scroll
 move
 click
 
 
 col518:
-page_load
+0page_load
 move
 click
 
 
 col519:
-page_load
+0page_load
 scroll
 move
 click
 
 
 col520:
-page_load
+0page_load
 scroll
 move
 click
 
 
-col522:
+col521:
+0Chrome
 Mobile Safari
+Samsung Browser
+Safari
+Opera
+
+
+col522:
+0Mobile Safari
 Chrome
 Safari
 Samsung Browser
@@ -3062,7 +4293,7 @@ Firefox
 
 
 col523:
-Mobile Safari
+0Mobile Safari
 Chrome
 Samsung Browser
 Safari
@@ -3071,7 +4302,7 @@ Opera
 
 
 col524:
-Mobile Safari
+0Mobile Safari
 Chrome
 Firefox
 Samsung Browser
@@ -3080,7 +4311,7 @@ Safari
 
 
 col525:
-Chrome
+0Chrome
 Mobile Safari
 Samsung Browser
 Firefox
@@ -3089,7 +4320,7 @@ Safari
 
 
 col526:
-Mobile Safari
+0Mobile Safari
 Chrome
 Samsung Browser
 Firefox
@@ -3098,7 +4329,7 @@ Safari
 
 
 col527:
-Mobile Safari
+0Mobile Safari
 Chrome
 Samsung Browser
 Firefox
@@ -3107,7 +4338,7 @@ Safari
 
 
 col528:
-Mobile Safari
+0Mobile Safari
 Chrome
 Samsung Browser
 Android Mobile
@@ -3116,56 +4347,70 @@ Opera
 Safari
 
 
-col530:
+col529:
+0Other
 iPhone
+Android
+
+
+col530:
+0iPhone
 Other
 Android
 
 
 col531:
-iPhone
+0iPhone
 Other
 Android
 iPad
 
 
 col532:
-iPhone
+0iPhone
 Other
 Android
 iPad
 
 
 col533:
-Android
+0Android
 Other
 iPhone
 iPad
 
 
 col534:
-iPhone
+0iPhone
 Android
 Other
 iPad
 
 
 col535:
-iPhone
+0iPhone
 Android
 Other
 iPad
 
 
 col536:
-iPhone
+0iPhone
 Android
 Other
 iPad
 
 
-col538:
+col537:
+0Windows
 iOS
+Android
+Mac OS X
+Linux
+
+
+col538:
+0iOS
 Windows
 Android
 Mac OS X
@@ -3173,7 +4418,7 @@ Linux
 
 
 col539:
-iOS
+0iOS
 Windows
 Android
 Mac OS X
@@ -3181,7 +4426,7 @@ Linux
 
 
 col540:
-iOS
+0iOS
 Windows
 Android
 Mac OS X
@@ -3189,7 +4434,7 @@ Linux
 
 
 col541:
-Android
+0Android
 Windows
 iOS
 Mac OS X
@@ -3197,7 +4442,7 @@ Linux
 
 
 col542:
-iOS
+0iOS
 Android
 Windows
 Mac OS X
@@ -3205,7 +4450,7 @@ Linux
 
 
 col543:
-iOS
+0iOS
 Android
 Windows
 Mac OS X
@@ -3213,15 +4458,61 @@ Linux
 
 
 col544:
-iOS
+0iOS
 Android
 Windows
 Mac OS X
 Linux
 
 
-col546:
+col545:
+0/
+/account/login/
+/promo/samolet-bonus/
+/spb/project/zhivi-v-rybackom/
+/flats/
 /project/sputnik/
+/account/payment/success/
+/account/flats/97044
+/project/sputnik/flats/208056/
+/project/pribrezhnyj-park/flats/121730/
+/spb/news/pereezzhajte-vmeste-s-samoletom-spb/
+/spb/
+/project/novodanilovskaya-8/
+/spb/account/flats/120230
+/purchase/mortgage/
+/project/verejskaya-41/
+/account/documents
+/spb/project/zhivi-v-rybackom/flats/112970/
+/spb/news/rekomendujte-samolet-i-zarabotajte-100-000-rublej/
+/news/rekomendujte-samolet-i-zarabotajte-100-000-rublej/
+/project/sputnik/flats/210779/
+/project/sputnik/flats/114607/
+/spb/project/malaya-ohta/
+/purchase/family/
+/spb/project/astrid/
+/spb/project/zhivi-v-rybackom/flats/118249/
+/news/vse-i-srazu-novaya-kvartira-i-avtomobil/
+/project/zarechye-park/
+/project/sputnik/flats/116939/
+/spb/uk/
+/spb/project/novoe-kolpino/
+/spb/storage/
+/storage/
+/spb/project/zhivi-v-rybackom/flats/119989/
+/account/contracts/
+/spb/project/zhivi-v-rybackom/flats/119824/
+/spb/flats/
+/booking-panel-success
+/spb/account/login/
+/contacts/
+/account/
+/project/molzhaninovo/
+/spb/ipoteka-001/
+
+
+col546:
+0/project/sputnik/
 /
 /account/flats/119817
 /account/login/
@@ -3290,7 +4581,7 @@ col546:
 
 
 col547:
-/project/sputnik/
+0/project/sputnik/
 /
 /project/verejskaya-41/
 /news/unikalnaya-rassrochka-na-vse-kladovye-pomesheniya/
@@ -3403,7 +4694,7 @@ col547:
 
 
 col548:
-/project/sputnik/
+0/project/sputnik/
 /
 /spb/project/astrid/
 /purchase/installment/
@@ -3580,7 +4871,7 @@ col548:
 
 
 col549:
-/
+0/
 /spb/flats/
 /spb/
 /spb/account/login/
@@ -3686,7 +4977,7 @@ col549:
 
 
 col550:
-/project/sputnik/
+0/project/sputnik/
 /
 /spb/flats/
 /spb/
@@ -3816,7 +5107,7 @@ col550:
 
 
 col551:
-/project/sputnik/
+0/project/sputnik/
 /
 /spb/flats/
 /spb/
@@ -3980,7 +5271,7 @@ col551:
 
 
 col552:
-/project/sputnik/
+0/project/sputnik/
 /
 /spb/flats/
 /spb/
@@ -4170,8 +5461,110 @@ col552:
 /project/egorovo-park/
 
 
-col555:
+col553:
+0
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054684_37376054684|cid|68613244|gid|4767846383|aid|11492303652|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492303652_ph:37376054684_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:37376054684_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwMzY1Mjt3d3cueWFuZGV4LnJ1OnByZW1pdW0&yclid=2391616032023511039
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054672_37376054672|cid|68613244|gid|4864156255|aid|11914601652|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_metr&calltouch_tm=yd_c:68613244_gb:4864156255_ad:11914601652_ph:37376054672_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:37376054672_apt:none&etext=&yclid=7490443008818087982
+android-app://com.google.android.gm/
 https://www.google.com/
+https://yandex.ru/
+https://samolet.ru/spb/flats/?project=25&rooms=0&ordering=filter_price,pk&free=1&area_min=24&area_max=27.44&floor_min=3&floor_max=10&building=550&layout=5525
+https://samolet.ru/account/privilege/
+https://ds2.mirconnect.ru/
+https://acs3.sbrf.ru/
+https://samolet.ru/project/zarechye-park/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=zarechyepark_live_yd_s_brand_zarechye_p_search_search_zk_text_mmo_33~y2zhytgy|68614090&utm_term=%D0%B6%20%D0%BA%20%D0%B7%D0%B0%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%BF%D0%B0%D1%80%D0%BA&utm_content=39127811287_39127811287|cid|68614090|gid|4767886394|aid|11670682875|adp|no|pos|premium2|src|search_none|dvc|mobile|reg|213|title_skidka_10&calltouch_tm=yd_c:68614090_gb:4767886394_ad:11670682875_ph:39127811287_st:search_pt:premium_p:2_s:none_dt:mobile_reg:213_ret:39127811287_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxNDA5MDsxMTY3MDY4Mjg3NTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=6589099301716623359
+https://suggest.dzen.ru/
+https://dzen.ru/a/Y6seYQ9_Qn_0bJNA
+https://www.yandex.ru/
+https://samolet.ru/
+https://3ds-ds2.mirconnect.ru/
+http://yandex.ru/searchapp?text=
+https://3ds-ds1.mirconnect.ru/
+https://click.mail.ru/
+https://samolet.ru/spb/account/login/?next=/account/documents
+https://samolet.ru/spb/project/zhivi-v-rybackom/flats/112985/
+https://samolet.ru/spb/project/malaya-ohta/flats/77153/?ordering=filter_price,pk&free=1&project=23&rooms=2&area_min=60&area_max=67.69&floor_min=10&floor_max=14
+https://acs12.sbrf.ru/
+https://www.google.ru/
+https://samolet.ru/account/payment/success/?orderId=6e8eb753-d7c4-7afe-9a0a-cbb7025fa050&lang=ru
+https://samolet.ru/purchase/netting/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_38601006397|cid|70577427|gid|4903321849|aid|12096120117|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120117_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:desktop_reg:2_ret:38601006397_apt:none&etext=2202.f8BraazynR2Frp6YGEEBy1467EvvGfZWWAf5pyBaPEhqamtraHlybmtpc21hZWhh.169160e5a9e12ffcc04571cce884a496fe44ac14&yclid=76210679475406918
+https://samolet.ru/spb/project/
+https://dzen.ru/
+https://samolet.ru/account/payment/success/?orderId=6d87684f-b76e-7eb3-b139-ee48025fa050&lang=ru
+https://samolet.ru/spb/
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=585
+https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+https://securepayments.sberbank.ru/
+https://samolet.ru/project/
+https://www.fontanka.ru/2022/09/24/71682161/
+
+
+col554:
+0https://samolet.ru/account/login/?next=/account/flats/119817
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054684_37376054684|cid|68613244|gid|4767846383|aid|11492303652|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492303652_ph:37376054684_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:37376054684_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwMzY1Mjt3d3cueWFuZGV4LnJ1OnByZW1pdW0&yclid=2391616032023511039
+https://samolet.ru/spb/
+https://ds1.mirconnect.ru/
+https://yandex.ru/
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054672_37376054672|cid|68613244|gid|4864156255|aid|11914601652|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_metr&calltouch_tm=yd_c:68613244_gb:4864156255_ad:11914601652_ph:37376054672_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:37376054672_apt:none&etext=&yclid=7490443008818087982
+android-app://com.google.android.gm/
+https://www.google.com/
+https://samolet.ru/spb/flats/?project=25&rooms=0&ordering=filter_price,pk&free=1&area_min=24&area_max=27.44&floor_min=3&floor_max=10&building=550&layout=5525
+https://samolet.ru/account/privilege/
+https://click.mail.ru/
+https://ds2.mirconnect.ru/
+https://acs3.sbrf.ru/
+https://samolet.ru/project/zarechye-park/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=zarechyepark_live_yd_s_brand_zarechye_p_search_search_zk_text_mmo_33~y2zhytgy|68614090&utm_term=%D0%B6%20%D0%BA%20%D0%B7%D0%B0%D1%80%D0%B5%D1%87%D1%8C%D0%B5%20%D0%BF%D0%B0%D1%80%D0%BA&utm_content=39127811287_39127811287|cid|68614090|gid|4767886394|aid|11670682875|adp|no|pos|premium2|src|search_none|dvc|mobile|reg|213|title_skidka_10&calltouch_tm=yd_c:68614090_gb:4767886394_ad:11670682875_ph:39127811287_st:search_pt:premium_p:2_s:none_dt:mobile_reg:213_ret:39127811287_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxNDA5MDsxMTY3MDY4Mjg3NTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=6589099301716623359
+https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%B4%D0%B5%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%BC%D0%B5%D0%BD%D1%82&utm_content=37376054883_37376054883|cid|68613244|gid|4767846414|aid|11492307795|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|10738|title_ipoteka_01&calltouch_tm=yd_c:68613244_gb:4767846414_ad:11492307795_ph:37376054883_st:search_pt:premium_p:1_s:none_dt:mobile_reg:10738_ret:37376054883_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwNzc5NTt5YW5kZXgucnU6cHJlbWl1bQ&yclid=3620864485969887231
+https://www.google.ru/
+https://samolet.ru/spb/project/zhivi-v-rybackom/
+https://samolet.ru/account/login/?next=/account/contracts/
+https://suggest.dzen.ru/
+https://samolet.ru/spb/flats/
+https://dzen.ru/a/Y6seYQ9_Qn_0bJNA
+https://www.yandex.ru/
+https://samolet.ru/
+https://3ds-ds2.mirconnect.ru/
+https://yandex.ru/an/count/WbWejI_zO9W1TH80j24LMW-m8vFHW0K0c08nT3EZOm00000uWjRi0K08mj63eRpYZeEZ0O01bvQQaRshj_UW0OW1dT3HrvW1a06yrBgtuO20W0AO0RpKkhTXi07mhjkl2BW1s9A3j2N00SO1s07SYF-f0U01XhoCdW7e0Ku3e0BumF4Ly0BSdO-l1e03riRHWWw80xou-8GBe0C4qSi7-0JOsGE81TZP0v05sDa3e0N2a06e1RTui0MtUBW5jtZ01OsTTiW5iuSUq0MRFA06NAW60hW6Lia6uuKHkKs0CYYf1u-qnEMnGuDfk0U01U07XiA0W0RW2BpW-0he2GVm2O0U-0dm480A1lWAWBKOW0kMXtg82mRe39C2u0s6W861W820Y42O3kEBniZRYQ2PAC6ma881c16ZlIgX4PgPcPcPcRce4v3PXUQaf_k75z0KefwpRUWKZ0AO5f2Azfm6e1QGbekT1iaMy3_G5gw_thu1c1Vprhijg1S9m1UrrW7260nsP50jDMPjBJ5aTpJm6DJz_m6W6Lom6O4Q__zh4WuzYdAm6kJdYOkuzAtWRe8S3MHuE3f2SsjKRpbdPJUe7W6m7mB87wx4_rII8AaW2oGXUgkie3-u8EUJA90Yr9uga2BMdYgG8iEpAf0YnRCga2B9iogG8gEzAf0YfBqga2AToIgG8gB9AjKY__z__u4ZYU0_a2FohUZroU6rmYgO8z6Kl_3_iT3u8mu0hIn4qmWpNPpjCGKE3DscOj2fuR1npKLGbYnnc-z4KdaQkd6dGEuJPg5O3892d3m0~1?target_ref=https%3A%2F%2Fyastatic.net%2F&adsdk-bundle-version=697433&adsdk-bundle-name=Multiroll&adsdk-container-visibility=100&adsdk-container-width=393&adsdk-container-height=221&video-avatar-width=392&video-avatar-height=221&ad-session-id=4615231671639919955&vsid=6f4752b9a584b0763aac2710aee9ba397d96dd25d561xVASx7433x1671639919&top-ancestor=https%3A%2F%2Fyandex.ru&top-ancestor-undetermined=0&client-ts=1671639931798&client-timezone-offset=-300&viewability-undetermined=0&video-volume=100&video-muted=0&pcode-active-testids=697433%2C0%2C64%3B685676%2C0%2C96&document-has-focus=true&is-fullscreen=false&device-orientation=portrait&ad-pod-id=a34sdf%3B1123773368%3B1%3B3ce3dcfc3f85fe86%3B7602995027491206287%3B178250286%3B1938817%3B3%3B7602994888254469263&product-theme=unknown
+http://yandex.ru/searchapp?text=
+https://3ds-ds1.mirconnect.ru/
+https://samolet.ru/spb/account/login/?next=/account/documents
+https://samolet.ru/spb/project/zhivi-v-rybackom/flats/112985/
+https://samolet.ru/spb/project/zhivi-v-rybackom/?building=549
+https://samolet.ru/promo-sale/
+https://samolet.ru/spb/project/malaya-ohta/flats/77153/?ordering=filter_price,pk&free=1&project=23&rooms=2&area_min=60&area_max=67.69&floor_min=10&floor_max=14
+https://samolet.ru/account/login/?next=/account/
+https://samolet.ru/spb/account/contracts/
+https://m.ura.news/
+https://samolet.ru/spb/flats/?ordering=filter_price,pk&free=1&project=23&rooms=2
+https://samolet.ru/spb/project/
+https://acs12.sbrf.ru/
+https://mail.yandex.ru/
+https://samolet.ru/account/payment/success/?orderId=6e8eb753-d7c4-7afe-9a0a-cbb7025fa050&lang=ru
+https://samolet.ru/project/sputnik/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20201022%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA&utm_medium=sms&utm_content=%5Bbatch%5D%20201022%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA&iitt=bjPAMjUWhF6l4foJ4kP_xNlJOFo8tInZbdbAb.oZOGJNhfH8hFzl4u4NbDVT&u=79190119370
+https://samolet.ru/purchase/netting/
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_38601006397|cid|70577427|gid|4903321849|aid|12096120117|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|2|text_otdelka&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120117_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:desktop_reg:2_ret:38601006397_apt:none&etext=2202.f8BraazynR2Frp6YGEEBy1467EvvGfZWWAf5pyBaPEhqamtraHlybmtpc21hZWhh.169160e5a9e12ffcc04571cce884a496fe44ac14&yclid=76210679475406918
+https://3ds-ds1.mirconnect.ru
+https://samolet.ru/project/sputnik/?utm_source=exponea&utm_campaign=%5Bbatch%5D%20201022%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA&utm_medium=sms&utm_content=%5Bbatch%5D%20201022%20%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA&iitt=bjPAMjUWhF6Jhuod4.xJ4GJ_4.odtIn8h.oAOI1dOGlZ4.zJb.zdxfbdbD_T&u=79255061152
+https://samolet.ru/spb/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=38601006397_|cid|70577427|gid|4903321849|aid|12096120118|adp|no|pos|premium1|src|search_none|dvc|tablet|reg|2|text_ipot&calltouch_tm=yd_c:70577427_gb:4903321849_ad:12096120118_ph:38601006397_st:search_pt:premium_p:1_s:none_dt:tablet_reg:2_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQyNzsxMjA5NjEyMDExODt5YW5kZXgucnU6cHJlbWl1bQ&yclid=13447315530737516543
+https://yandex.ru/maps/org/troparevo_park_ofis_prodazh/207371317064/?ll=37.472935%2C55.635303&mode=search&sctx=ZAAAAAgBEAAaKAoSCZ5eKcsQz0JAEdOgaB7A4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQGKAA4AEDVAUgBYiRtaWRkbGVfeWFuZGV4X3RyYXZlbF9FbmFibGVDYXRSb29tPTFiJ21pZGRsZV95YW5kZXhfdHJhdmVsX0NhdFJvb21TaG93T3RoZXI9MGIgYWRkX3NuaXBwZXQ9c2tpX2RhdGFfdG9fMW9yZy8xLnhiG2FkZF9zbmlwcGV0PWF2aWFfcHJpY2VzLzEueGIsYWRkX3NuaXBwZXQ9YnVzaW5lc3NfYXdhcmRzX2V4cGVyaW1lbnRhbC8xLnhiHGFkZF9zbmlwcGV0PW1haW5fYXNwZWN0cy8xLnhiHXJlbGV2PXNlYXJjaF90ZXh0X2V4cF9uYW1lPXYxYhJyZWxldj1yZWxldmdlbz0yMTNiKG1pZGRsZV95YW5kZXhfdHJhdmVsX0F1dG9DYXRSb29tRm9yQWxsPTFiKm1pZGRsZV95YW5kZXhfdHJhdmVsX0NhdFJvb21NYXhPdGhlclBjdD0yNWIwcmVhcnI9c2NoZW1lX0xvY2FsL0dlb3VwcGVyL0FkZEZpeGVkVG9wR2VvanNvbj0xYjdyZWFycj1zY2hlbWVfTG9jYWwvR2VvL1JlcXVlc3RVZ2NGb3JQb3NzaWJsZU93bmVycz10cnVlagJydZUBAAAAAJ0BzcxMPqABAagBAL0BF%2B%2BV%2B8IBEM6A2psFpPnk0UfI3qzChAbqAQDyAQD4AQCCAhvQv9Cw0YDQuiDRgtGA0L7Qv9Cw0YDQtdCy0L6KAgCSAgYxMTYyNjiaAgRzZXJw&sll=37.472935%2C55.635303&source=wizbiz_new_map_multi&sspn=0.041811%2C0.031647&text=%D0%BF%D0%B0%D1%80%D0%BA%20%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D1%80%D0%B5%D0%B2%D0%BE&z=13
+https://dzen.ru/
+https://disk.yandex.ru/
+https://samolet.ru/account/payment/success/?orderId=6d87684f-b76e-7eb3-b139-ee48025fa050&lang=ru
+https://samolet.ru/spb/flats/?rooms=2&project=25&building=585
+https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+android-app://com.google.android.googlequicksearchbox/
+https://securepayments.sberbank.ru/
+https://yandex.ru/news/story/Minoborony_Rossii_Kiev_gotovit_masshtabnye_provokacii_vrajone_Zaporozhskoj_AEHS--dbb6ac5e9355022ddb5339e5d2684320?lang=ru&from=main_portal&fan=1&stid=1VGOZLqz1N1t1uGK5xpn&t=1660815091&persistent_id=221034963&story=063e3266-550e-5443-b62b-592656184032&lr=239&msid=1660815798023420-13185431202751201015-vla1-2655-vla-l7-balancer-8080-BAL-3486&mlid=1660815091.glob_225.dbb6ac5e&utm_source=morda_desktop&utm_medium=topnews_news
+https://yandex.ru/searchapp?from=zen&text=
+https://samolet.ru/project/
+https://samolet.ru/?xnpe_tifc=4DnlxDolhkYjb.oZbuY7x9p.VuJrEfs_O.YjbDQNbInZtIY84FHA4Fe.xNl8xkh_tIYX4IHlbDzp4knl4MX7xFzjOFY74ub84fYJxF1D&utm_source=exponea&utm_campaign=%5Bbatch%5D%20190722%20%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B6%D0%B4%D1%83%D1%89%D0%B8%D1%85%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B8&utm_medium=email
+https://samolet.ru/spb/project/zhivi-v-rybackom/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=zhivivrybackom_live_yd_s_brand_rybackom_search_search_zk_text_spb-lo_33~ogvlognj|70577449&utm_term=%D0%B6%D0%B8%D0%B2%D0%B8%20%D0%B2%20%D1%80%D1%8B%D0%B1%D0%B0%D1%86%D0%BA%D0%BE%D0%BC%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=36057267140_|cid|70577449|gid|4800725921|aid|11648111362|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|text_cena&calltouch_tm=yd_c:70577449_gb:4800725921_ad:11648111362_ph:36057267140_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs3MDU3NzQ0OTsxMTY0ODExMTM2Mjt5YW5kZXgucnU6cHJlbWl1bQ&yclid=15407963864034705407
+https://www.fontanka.ru/2022/09/24/71682161/
+
+
+col555:
+0https://www.google.com/
 https://click.mail.ru/
 https://samolet.ru/account/login/?next=/account/flats/119817
 https://samolet.ru/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_live_yd_s_brand_samoletgroup_search_search_samolet_text_mmo_33~mzywztjh|68613244&utm_term=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82&utm_content=37376054684_37376054684|cid|68613244|gid|4767846383|aid|11492303652|adp|no|pos|premium1|src|search_none|dvc|desktop|reg|213|text_top&calltouch_tm=yd_c:68613244_gb:4767846383_ad:11492303652_ph:37376054684_st:search_pt:premium_p:1_s:none_dt:desktop_reg:213_ret:37376054684_apt:none&_openstat=ZGlyZWN0LnlhbmRleC5ydTs2ODYxMzI0NDsxMTQ5MjMwMzY1Mjt3d3cueWFuZGV4LnJ1OnByZW1pdW0&yclid=2391616032023511039
@@ -4280,7 +5673,7 @@ https://samolet.ru/account/documents/
 
 
 col556:
-https://yandex.ru/
+0https://yandex.ru/
 https://samolet.ru/spb/project/
 https://samolet.ru/account/flats/119756
 https://www.google.com/
@@ -4465,7 +5858,7 @@ https://samolet.ru/account/documents/
 
 
 col557:
-https://yandex.ru/
+0https://yandex.ru/
 https://3ds-ds1.mirconnect.ru/
 https://samolet.ru/account/login/?next=/account/flats/119817
 https://www.google.com/
@@ -4589,7 +5982,7 @@ https://mail.ru/
 
 
 col558:
-https://www.google.com/
+0https://www.google.com/
 https://yandex.ru/
 https://3ds-ds1.mirconnect.ru/
 https://samolet.ru/account/login/?next=/account/flats/119817
@@ -4755,7 +6148,7 @@ https://www.belnovosti.by/
 
 
 col559:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25&rooms=0&area_min=24&area_max=27.44
 https://yandex.ru/
 https://3ds-ds1.mirconnect.ru/
@@ -4956,7 +6349,7 @@ https://samolet.ru/flats/?rooms=3&project=7&building=773&ordering=filter_price,p
 
 
 col560:
-https://samolet.ru/
+0https://samolet.ru/
 https://samolet.ru/spb/flats/?free=1&ordering=filter_price,pk&project=25&rooms=0&area_min=24&area_max=27.44
 https://yandex.ru/
 https://3ds-ds1.mirconnect.ru/
@@ -5211,8 +6604,22 @@ https://ds1.mirconnect.ru
 https://yandex.ru/video/touch/preview/10388754585529378948
 
 
+col561:
+0sms
+email
+cpc
+cpm
+
+
+col562:
+0sms
+cpc
+email
+cpm
+
+
 col563:
-sms
+0sms
 email
 cpc
 cpm
@@ -5221,7 +6628,7 @@ special
 
 
 col564:
-sms
+0sms
 cpc
 email
 cpm
@@ -5230,7 +6637,7 @@ special
 
 
 col565:
-cpc
+0cpc
 sms
 email
 cpm
@@ -5238,7 +6645,7 @@ push
 
 
 col566:
-sms
+0sms
 cpc
 email
 cpm
@@ -5249,7 +6656,7 @@ digest
 
 
 col567:
-sms
+0sms
 cpc
 email
 messenger
@@ -5262,7 +6669,7 @@ special
 
 
 col568:
-sms
+0sms
 cpc
 email
 cpm
@@ -5275,8 +6682,28 @@ social-owned
 special
 
 
-col571:
+col569:
+0sms
 exponea
+yandex_network
+yandex_search
+telegram_channels
+trigger
+
+
+col570:
+0exponea
+sms
+yandex_search
+yandex_network
+telegram_channels
+trigger
+yandex
+ya_maps
+
+
+col571:
+0exponea
 sms
 yandex_search
 yandex_network
@@ -5290,7 +6717,7 @@ S7
 
 
 col572:
-exponea
+0exponea
 yandex_search
 sms
 yandex_network
@@ -5304,7 +6731,7 @@ S7
 
 
 col573:
-yandex_search
+0yandex_search
 sms
 yandex_network
 exponea
@@ -5315,7 +6742,7 @@ yandex
 
 
 col574:
-exponea
+0exponea
 yandex_search
 sms
 yandex_network
@@ -5331,7 +6758,7 @@ google_search
 
 
 col575:
-exponea
+0exponea
 yandex_search
 yandex
 sms
@@ -5349,7 +6776,7 @@ S7
 
 
 col576:
-exponea
+0exponea
 yandex_search
 sms
 yandex_network
@@ -5368,8 +6795,85 @@ instagram
 S7
 
 
-col580:
+col578:
+0самолет ру
+ипотечный калькулятор для ит
+компания самолет недвижимость
+живи в рыбацком жилой комплекс официальный сайт
 самолет
+живи в рыбацком
+жк сиреневый парк
+строй группа самолет
+верейская 41 цены
+строительная компания самолет
+самолет москва застройщик
+СПб_Поздравление_жилая
+самолет застройщик санкт петербург
+Брошенный_проект
+самолет ру купить квартиру
+живи в рыбацком спб
+квартира
+жк сандэй
+самолет спутник
+астрид самолет
+samoletgroup
+малая охта спб
+компания самолет
+самолет застройки
+жк пятницкие луга застройщик самолет
+
+
+col579:
+0самолет ру
+квартиры в москве самолет
+астрид колпино цена
+ипотечный калькулятор для ит
+самолет
+компания самолет недвижимость
+Поздравляем_новоселье
+живи в рыбацком жилой комплекс официальный сайт
+новоданиловская 8
+живи в рыбацком
+---autotargeting
+однушка в москве
+жк сиреневый парк
+строй группа самолет
+верейская 41 цены
+строительная компания самолет
+самолет москва застройщик
+СПб_Поздравление_жилая
+самолет мытищи парк
+самолет застройщик санкт петербург
+жк самолет санкт петербург
+Брошенный_проект
+томилино жк самолет купить
+самолет ру купить квартиру
+живи в рыбацком спб
+гк самолет питер
+квартира
+жк сандэй
+самолет официальный сайт
+samolet ru
+самолет спутник
+Мск_Поздравление_жилая
+самолет строительная фирма санкт петербург
+жк спутник самолет
+самолет групп
+астрид самолет
+samoletgroup
+малая охта спб
+астрид колпино
+сандей
+компания самолет
+жк астрид
+томилино парк жилой комплекс
+самолет застройки
+ж к заречье парк
+жк пятницкие луга застройщик самолет
+
+
+col580:
+0самолет
 жк пятницкие луга застройщик самолет
 самолет ру
 сандей самолет жк
@@ -5451,8 +6955,76 @@ samoletgroup
 заречье парк москва
 
 
+col581:
+0застройщик самолет спб
+строительная компания самолет
+гк самолет
+малая охта спб
+самолет
+живи в рыбацком цена
+ж к заречье парк
+самолет застройщик санкт петербург
+самолет застройщик купить
+компания самолет недвижимость
+самолет спутник
+samoletgroup
+жк сандей спб
+самолет москва застройщик
+живи в рыбацком
+жк заречье парк
+самолет девелопмент
+жк сандей
+живи в рыбацком купить квартиру в новостройке
+Брошенный_проект
+живи в рыбацком жилой комплекс
+жк живи в рыбацком
+живи в рыбацком сдача
+комплекс живи в рыбацком
+живи в рыбацком петербург
+верейская 41 цены
+Преимущества_паркинга
+жк самолет
+СПб_Поздравление_жилая
+пик
+агентство недвижимости панорама отзывы
+старт продаж новостроек
+samolet
+жк малая охта самолет
+самолет ру купить квартиру
+Брошенная_планировка
+новостройки санкт петербурга от застройщика старт продаж
+---autotargeting
+жк малая охта
+жилой квартал самолет
+группа самолет
+жк спутник самолет
+живи в рыбацком официальный сайт застройщика
+жил ком живи в рыбацком
+спб реновация официальный сайт
+квартиру в ипотеку с мат капиталом
+малая охта
+спутник жк самолет официальный
+жк сандэй
+жк
+жк спутник
+купить квартиру в москве самолет
+ипотека
+живи в рыбацком ход строительства
+верейская
+DOI_Подтверждение_подписки
+купить квартиру студию в москве
+астрид колпино
+строй группа самолет
+застройщик самолет
+застройщик живи рыбацком
+ипотека для семей с детьми 2021 условия
+живи в рыбацком спб
+жк пятницкие луга застройщик самолет
+самолет застройщик санкт петербург официальный
+
+
 col582:
-застройщик самолет спб
+0застройщик самолет спб
 пятницкие луга жк
 строительная компания самолет
 гк самолет
@@ -5559,7 +7131,7 @@ DOI_Подтверждение_подписки
 
 
 col583:
-застройщик самолет спб
+0застройщик самолет спб
 пятницкие луга жк
 строительная компания самолет
 комплекс живи в рыбацком
@@ -5694,7 +7266,7 @@ samolet
 
 
 col584:
-самолет
+0самолет
 застройщик самолет спб
 самолет строительная фирма санкт петербург
 сайт самолет ру
@@ -5895,8 +7467,19 @@ astrid
 дизайн ремонта малогабаритной квартиры
 
 
+col585:
+0Russia
+Sweden
+Thailand
+Germany
+Turkey
+France
+Saudi Arabia
+United Arab Emirates
+
+
 col586:
-Russia
+0Russia
 Sweden
 Germany
 Montenegro
@@ -5911,7 +7494,7 @@ United Arab Emirates
 
 
 col587:
-Russia
+0Russia
 Kazakhstan
 Montenegro
 Lebanon
@@ -5933,7 +7516,7 @@ Poland
 
 
 col588:
-Russia
+0Russia
 Kazakhstan
 Netherlands
 United States
@@ -5960,7 +7543,7 @@ Poland
 
 
 col589:
-Russia
+0Russia
 Poland
 Belarus
 Montenegro
@@ -5981,7 +7564,7 @@ United Arab Emirates
 
 
 col590:
-Russia
+0Russia
 Poland
 Belarus
 Montenegro
@@ -6003,7 +7586,7 @@ United Arab Emirates
 
 
 col591:
-Russia
+0Russia
 Kazakhstan
 Poland
 Montenegro
@@ -6027,7 +7610,7 @@ United Arab Emirates
 
 
 col592:
-Russia
+0Russia
 Spain
 Kazakhstan
 Poland
@@ -6053,8 +7636,38 @@ United Arab Emirates
 Germany
 
 
+col593:
+0Moscow
+St.-Petersburg
+Bashkortostan Republic
+Leningrad Oblast
+Moscow Oblast
+Krasnoyarsk Krai
+Yaroslavl Oblast
+Kaliningrad Oblast
+Stockholm County
+Arkhangelskaya
+Novosibirsk Oblast
+Chelyabinsk Oblast
+Khabarovsk
+Nonthaburi
+Hesse
+Kamchatka
+Dagestan
+Vologda Oblast
+Krasnodarskiy Kray
+Amur Oblast
+Sakhalin Oblast
+Riyadh Region
+Krasnoyarskiy Kray
+Vladimir Oblast
+Dubai
+Kocaeli
+Tatarstan Republic
+
+
 col594:
-Moscow
+0Moscow
 St.-Petersburg
 Sakhalin Oblast
 Volgograd Oblast
@@ -6100,7 +7713,7 @@ Tatarstan Republic
 
 
 col595:
-Moscow
+0Moscow
 St.-Petersburg
 Sakhalin Oblast
 Volgograd Oblast
@@ -6168,7 +7781,7 @@ Kocaeli
 
 
 col596:
-Moscow
+0Moscow
 St.-Petersburg
 Khanty-Mansia
 Bashkortostan Republic
@@ -6255,7 +7868,7 @@ Ulyanovsk Oblast
 
 
 col597:
-Moscow
+0Moscow
 St.-Petersburg
 Voronezh Oblast
 Irkutsk Oblast
@@ -6325,7 +7938,7 @@ Kocaeli
 
 
 col598:
-Moscow
+0Moscow
 St.-Petersburg
 Voronezh Oblast
 Irkutsk Oblast
@@ -6405,7 +8018,7 @@ Kocaeli
 
 
 col599:
-Moscow
+0Moscow
 St.-Petersburg
 Voronezh Oblast
 Irkutsk Oblast
@@ -6496,7 +8109,7 @@ Kocaeli
 
 
 col600:
-Moscow
+0Moscow
 St.-Petersburg
 Voronezh Oblast
 Khanty-Mansia
@@ -6591,8 +8204,43 @@ Istanbul
 Ulyanovsk Oblast
 
 
+col601:
+0Moscow
+St Petersburg
+Ufa
+Kirishi
+Domodedovo
+Krasnoyarsk
+Rybinsk
+Kaliningrad
+Stockholm
+Severodvinsk
+Novosibirsk
+Solnechnogorsk
+Zlatoust
+Balashikha
+Khabarovsk
+Nonthaburi
+Frankfurt am Main
+Petropavlovsk-Kamchatsky
+Yaroslavl
+Derbent
+Cherepovets
+Sochi
+Blagoveshchensk
+Yuzhno-Sakhalinsk
+Riyadh
+Minusinsk
+Aleksandrov
+Lesosibirsk
+Arkhangelsk
+Dubai
+"Galchino"
+Kosekoy
+
+
 col602:
-Moscow
+0Moscow
 St Petersburg
 Okha
 Volgograd
@@ -6650,7 +8298,7 @@ Kirovo-Chepetsk
 
 
 col603:
-Moscow
+0Moscow
 St Petersburg
 Okha
 Volgograd
@@ -6747,7 +8395,7 @@ Kirovo-Chepetsk
 
 
 col604:
-Moscow
+0Moscow
 St Petersburg
 Surgut
 Ufa
@@ -6873,7 +8521,7 @@ Verkhniy Ufaley
 
 
 col605:
-Moscow
+0Moscow
 St Petersburg
 Voronezh
 Irkutsk
@@ -6962,7 +8610,7 @@ Kosekoy
 
 
 col606:
-Moscow
+0Moscow
 St Petersburg
 Voronezh
 Irkutsk
@@ -7077,7 +8725,7 @@ Kirovo-Chepetsk
 
 
 col607:
-Moscow
+0Moscow
 St Petersburg
 Voronezh
 Irkutsk
@@ -7108,7 +8756,7 @@ Rybinsk
 Vyborg
 Mezhdurechensk
 Izhevsk
-"Pereslavl-Zalesskiy"Vladikavkaz
+ "Pereslavl-Zalesskiy"Vladikavkaz
 Kazan’
 Budva
 Vidnoye
@@ -7121,8 +8769,7 @@ Tolyatti
 Samara
 Gatchina
 Yakutsk
-"Norilsk"
-Omsk
+"Norilsk"Omsk
 Stockholm
 Belgorod
 Tsarskoye Selo
@@ -7209,7 +8856,7 @@ Kirovo-Chepetsk
 
 
 col608:
-Moscow
+0Moscow
 St Petersburg
 Voronezh
 Surgut
@@ -7254,7 +8901,8 @@ Izhevsk
 Rybinsk
 Vyborg
 Mezhdurechensk
- "Pereslavl-Zalesskiy"Vladikavkaz
+"Pereslavl-Zalesskiy"
+Vladikavkaz
 Kazan’
 Budva
 Vidnoye
@@ -7312,7 +8960,8 @@ Perm
 Stavropol
 Zedelgem
 Metallostroy
-"Norilsk"Petrozavodsk
+"Norilsk"
+Petrozavodsk
 Penza
 Anapa
 Kemerovo
@@ -7360,27 +9009,37 @@ Verkhniy Ufaley
 Kirovo-Chepetsk
 
 
-col611:
+col609:
+0Google
+Yandex
+
+
+col610:
+0Yandex
 Google
+
+
+col611:
+0Google
 Yandex
 Vkontakte
 
 
 col612:
-Yandex
+0Yandex
 Google
 Vkontakte
 
 
 col613:
-Yandex
+0Yandex
 Google
 Vkontakte
 Mail.ru
 
 
 col614:
-Google
+0Google
 Yandex
 Vkontakte
 DuckDuckGo
@@ -7388,7 +9047,7 @@ Mail.ru
 
 
 col615:
-Google
+0Google
 Yandex
 Vkontakte
 DuckDuckGo
@@ -7396,7 +9055,7 @@ Mail.ru
 
 
 col616:
-Google
+0Google
 Yandex
 DuckDuckGo
 Vkontakte
@@ -7404,8 +9063,42 @@ Gmail
 Mail.ru
 
 
-col795:
+col793:
+06da279e4-2805-ea11-80ed-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
+dfad20e9-8c4b-e711-80c5-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+97a6d484-1665-ea11-80f7-005056b8d207
+a43b7e8f-941c-e811-80dd-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+fab35ba8-af78-ec11-8121-005056b8d207
+3b7995b6-cb53-eb11-810b-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+509a6d42-b978-ec11-8121-005056b8d207
+
+
+col794:
+06da279e4-2805-ea11-80ed-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+9c3b7e8f-941c-e811-80dd-005056b8d207
+dfad20e9-8c4b-e711-80c5-005056b8d207
+97a6d484-1665-ea11-80f7-005056b8d207
+a43b7e8f-941c-e811-80dd-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+983b7e8f-941c-e811-80dd-005056b8d207
+fab35ba8-af78-ec11-8121-005056b8d207
+3b7995b6-cb53-eb11-810b-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+e48f6c85-7414-e711-80c1-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+509a6d42-b978-ec11-8121-005056b8d207
+07091659-2705-e911-80e5-005056b8d207
+
+
+col795:
+09c3b7e8f-941c-e811-80dd-005056b8d207
 6da279e4-2805-ea11-80ed-005056b8d207
 a2d8abff-78b8-e611-80bf-005056b8d207
 dfad20e9-8c4b-e711-80c5-005056b8d207
@@ -7429,7 +9122,7 @@ e34c4077-7127-e811-80dd-005056b8d207
 
 
 col796:
-9c3b7e8f-941c-e811-80dd-005056b8d207
+09c3b7e8f-941c-e811-80dd-005056b8d207
 6da279e4-2805-ea11-80ed-005056b8d207
 fab35ba8-af78-ec11-8121-005056b8d207
 deb76297-1665-ea11-80f7-005056b8d207
@@ -7458,7 +9151,7 @@ dfd68d0a-b878-ec11-8121-005056b8d207
 
 
 col797:
-6da279e4-2805-ea11-80ed-005056b8d207
+06da279e4-2805-ea11-80ed-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
 dfad20e9-8c4b-e711-80c5-005056b8d207
 a2d8abff-78b8-e611-80bf-005056b8d207
@@ -7480,7 +9173,7 @@ e48f6c85-7414-e711-80c1-005056b8d207
 
 
 col798:
-6da279e4-2805-ea11-80ed-005056b8d207
+06da279e4-2805-ea11-80ed-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
 a2d8abff-78b8-e611-80bf-005056b8d207
 3b7995b6-cb53-eb11-810b-005056b8d207
@@ -7503,7 +9196,7 @@ dfd68d0a-b878-ec11-8121-005056b8d207
 
 
 col799:
-9c3b7e8f-941c-e811-80dd-005056b8d207
+09c3b7e8f-941c-e811-80dd-005056b8d207
 6da279e4-2805-ea11-80ed-005056b8d207
 fab35ba8-af78-ec11-8121-005056b8d207
 a2d8abff-78b8-e611-80bf-005056b8d207
@@ -7530,7 +9223,7 @@ e34c4077-7127-e811-80dd-005056b8d207
 
 
 col800:
-9c3b7e8f-941c-e811-80dd-005056b8d207
+09c3b7e8f-941c-e811-80dd-005056b8d207
 6da279e4-2805-ea11-80ed-005056b8d207
 fab35ba8-af78-ec11-8121-005056b8d207
 3f7995b6-cb53-eb11-810b-005056b8d207
@@ -7557,12 +9250,67 @@ dfd68d0a-b878-ec11-8121-005056b8d207
 6f57a1fd-b978-ec11-8121-005056b8d207
 
 
+col1031:
+0По стоимости
+
+
+col1032:
+0По стоимости
+
+
+col1033:
+0По стоимости
+
+
+col1034:
+0По стоимости
+
+
+col1035:
+0По стоимости
+
+
 col1036:
-По стоимости
+0По стоимости
+
+
+col1037:
+06da279e4-2805-ea11-80ed-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+9c3b7e8f-941c-e811-80dd-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
+
+
+col1038:
+0a2d8abff-78b8-e611-80bf-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+9c3b7e8f-941c-e811-80dd-005056b8d207
+983b7e8f-941c-e811-80dd-005056b8d207
+6da279e4-2805-ea11-80ed-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
+
+
+col1039:
+0fab35ba8-af78-ec11-8121-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+a43b7e8f-941c-e811-80dd-005056b8d207
+9c3b7e8f-941c-e811-80dd-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+983b7e8f-941c-e811-80dd-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+6da279e4-2805-ea11-80ed-005056b8d207
+97a6d484-1665-ea11-80f7-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+deb76297-1665-ea11-80f7-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
 
 
 col1040:
-fab35ba8-af78-ec11-8121-005056b8d207
+0fab35ba8-af78-ec11-8121-005056b8d207
 3f7995b6-cb53-eb11-810b-005056b8d207
 e34c4077-7127-e811-80dd-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
@@ -7583,8 +9331,40 @@ e48f6c85-7414-e711-80c1-005056b8d207
 56698c9e-35dd-ea11-80fc-005056b8d207
 
 
-col1043:
+col1041:
+09c3b7e8f-941c-e811-80dd-005056b8d207
+fde60ee3-11aa-e811-80de-005056b8d207
+6da279e4-2805-ea11-80ed-005056b8d207
+983b7e8f-941c-e811-80dd-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+a43b7e8f-941c-e811-80dd-005056b8d207
 fab35ba8-af78-ec11-8121-005056b8d207
+dfad20e9-8c4b-e711-80c5-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
+
+
+col1042:
+09c3b7e8f-941c-e811-80dd-005056b8d207
+a03b7e8f-941c-e811-80dd-005056b8d207
+a2d8abff-78b8-e611-80bf-005056b8d207
+a43b7e8f-941c-e811-80dd-005056b8d207
+fde60ee3-11aa-e811-80de-005056b8d207
+983b7e8f-941c-e811-80dd-005056b8d207
+6da279e4-2805-ea11-80ed-005056b8d207
+92d863a3-1665-ea11-80f7-005056b8d207
+fab35ba8-af78-ec11-8121-005056b8d207
+dfad20e9-8c4b-e711-80c5-005056b8d207
+a23b7e8f-941c-e811-80dd-005056b8d207
+56698c9e-35dd-ea11-80fc-005056b8d207
+3f7995b6-cb53-eb11-810b-005056b8d207
+2c30ab69-847a-eb11-8110-005056b8d207
+
+
+col1043:
+0fab35ba8-af78-ec11-8121-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
 a2d8abff-78b8-e611-80bf-005056b8d207
 a43b7e8f-941c-e811-80dd-005056b8d207
@@ -7605,7 +9385,7 @@ deb76297-1665-ea11-80f7-005056b8d207
 
 
 col1044:
-fab35ba8-af78-ec11-8121-005056b8d207
+0fab35ba8-af78-ec11-8121-005056b8d207
 3f7995b6-cb53-eb11-810b-005056b8d207
 e34c4077-7127-e811-80dd-005056b8d207
 9c3b7e8f-941c-e811-80dd-005056b8d207
@@ -7629,8 +9409,29 @@ e48f6c85-7414-e711-80c1-005056b8d207
 2c30ab69-847a-eb11-8110-005056b8d207
 
 
-col1048:
+col1045:
+0project
+apartment_description
+
+
+col1046:
+0project
+apartment_description
 main
+https://samolet.ru/spb/purchase/family/
+
+
+col1047:
+0main
+project
+apartment_description
+https://samolet.ru/purchase/family/
+https://samolet.ru/spb/purchase/family/
+https://samolet.ru/spb/it-mortgage/
+
+
+col1048:
+0main
 project
 apartment_description
 https://samolet.ru/ipoteka-001-7-years/
@@ -7645,8 +9446,28 @@ https://samolet.ru/it-mortgage/
 https://samolet.ru/ipoteka-001-7-years/?utm_source=vk&utm_medium=messenger&utm_campaign=gk_samolet_ipoteka_0_01_7_years_social-groups_realty_smart-banners_rf_0~ymiwyjf
 
 
-col1051:
+col1049:
+0project
 main
+https://samolet.ru/spb/purchase/family/
+https://samolet.ru/purchase/family/
+apartment_description
+https://samolet.ru/ipoteka-001-7-years/
+
+
+col1050:
+0project
+https://samolet.ru/spb/ipoteka-001-7-years/
+main
+https://samolet.ru/spb/purchase/family/
+https://samolet.ru/ipoteka-001-7-years/
+https://samolet.ru/purchase/family/
+apartment_description
+https://samolet.ru/purchase/family/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=samolet_yd_s_brand_spb_common_search_search_samolet_text_spb-lo_33~yzizmzuw|70577427&utm_term=%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%20%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%89%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&utm_content=36157125856_|cid|70577427|gid|4800725314|aid|11670814675|adp|no|pos|premium1|src|search_none|dvc|mobile|reg|2|DOP_family&calltouch_tm=yd_c:70577427_gb:4800725314_ad:11670814675_ph:36157125856_st:search_pt:premium_p:1_s:none_dt:mobile_reg:2_ret:_apt:none&yclid=14491428404578484223
+
+
+col1051:
+0main
 project
 https://samolet.ru/spb/ipoteka-001-7-years/
 apartment_description
@@ -7658,7 +9479,7 @@ https://samolet.ru/purchase/family/?utm_source=yandex_search&utm_medium=cpc&utm_
 
 
 col1052:
-main
+0main
 project
 https://samolet.ru/ipoteka-001-7-years/
 https://samolet.ru/spb/purchase/family/
@@ -7673,8 +9494,31 @@ https://samolet.ru/purchase/family/?utm_source=yandex_search&utm_medium=cpc&utm_
 https://samolet.ru/ipoteka-001-7-years/?utm_source=vk&amp;utm_medium=messenger&amp;utm_campaign=gk_samolet_ipoteka_0_01_7_years_social-groups_realty_smart-banners_rf_0~ymiwyjf
 
 
-col1056:
+col1053:
+0storage
+project_ipoteka-2-99
+araptment_ipoteka-2-99
+
+
+col1054:
+0araptment_ipoteka-2-99
+project_ipoteka-2-99
+storage
 main
+family
+
+
+col1055:
+0main
+araptment_ipoteka-2-99
+project_ipoteka-2-99
+storage
+family
+it_mortgage
+
+
+col1056:
+0main
 araptment_ipoteka-2-99
 project_ipoteka-2-99
 ipoteka-001-7
@@ -7684,8 +9528,28 @@ family
 it_mortgage
 
 
-col1059:
+col1057:
+0parking
+araptment_ipoteka-2-99
 main
+project_ipoteka-2-99
+storage
+family
+ipoteka-001-7
+
+
+col1058:
+0araptment_ipoteka-2-99
+ipoteka-001-7
+parking
+project_ipoteka-2-99
+main
+storage
+family
+
+
+col1059:
+0main
 araptment_ipoteka-2-99
 ipoteka-001-7
 project_ipoteka-2-99
@@ -7696,7 +9560,7 @@ it_mortgage
 
 
 col1060:
-main
+0main
 araptment_ipoteka-2-99
 project_ipoteka-2-99
 ipoteka-001-7
@@ -7706,47 +9570,259 @@ it_mortgage
 parking
 
 
-col1064:
+col1061:
+0other_mortgage_programs
 form_ipoteka-2-99
+mortgage_calc
+
+
+col1062:
+0form_ipoteka-2-99
+other_mortgage_programs
+private_area_reficing
+mortgage_calc
+top_offer
+
+
+col1063:
+0form_ipoteka-2-99
+other_mortgage_programs
+top_offer
+private_area_reficing
+mortgage_calc
+
+
+col1064:
+0form_ipoteka-2-99
 other_mortgage_programs
 mortgage_calc
 top_offer
 private_area_reficing
 
 
-col1066:
+col1065:
+0other_mortgage_programs
 form_ipoteka-2-99
+top_offer
+mortgage_calc
+
+
+col1066:
+0form_ipoteka-2-99
 mortgage_calc
 other_mortgage_programs
 top_offer
 
 
 col1067:
-form_ipoteka-2-99
+0form_ipoteka-2-99
 other_mortgage_programs
 mortgage_calc
 top_offer
 
 
 col1068:
-form_ipoteka-2-99
+0form_ipoteka-2-99
 other_mortgage_programs
 mortgage_calc
 top_offer
 
 
-col1076:
+col1072:
+0it_mortgage
 press_family
+
+
+col1073:
+0press_family
 it_mortgage
 
 
+col1074:
+0press_family
+it_mortgage
+
+
+col1075:
+0press_family
+it_mortgage
+
+
+col1076:
+0press_family
+it_mortgage
+
+
+col1170:
+0 2.0 3.0 10.0 76.0 17.0 1.0СП3МОЦ
+1
+
+
+col1171:
+0 2.0 3.0 76.0 10.0 17.0 1.0СП3МОЦ
+1
+
+
 col1172:
- 2.0 16.0 17.0 3.0 76.0 10.0 1.0 9.0 31.0М17
+0 2.0 16.0 17.0 3.0 76.0 10.0 1.0 9.0 31.0М17
 76
 2
 3
 СП3МОЦ
 1
+
+
+col1176:
+0Живи! В Рыбацком
+Спутник
+Астрид
+Малая Охта
+
+
+col1178:
+0Спутник
+Живи! В Рыбацком
+Малая Охта
+Астрид
+Новоданиловская 8
+
+
+col1179:
+0Живи! В Рыбацком
+Спутник
+Астрид
+Малая Охта
+Новоданиловская 8
+
+
+col1180:
+0Новоданиловская 8
+Живи! В Рыбацком
+Спутник
+Астрид
+Малая Охта
+Сандэй
+
+
+col1276:
+0СТИЛОБАТ1
+15.0 14.0 2.1 66.0 1.0 10.0 1.1 32.0 36.02.1
+
+
+col1277:
+0 3.0 1.0 14.0СТИЛОБАТ1
+2.1 36.0 32.0
+
+
+col1278:
+0 3.0 1.0 14.0СТИЛОБАТ1
+1.1 2.1 32.0 36.0
+
+
+col1279:
+0СТИЛОБАТ1
+1
+3
+10.0 1.0 14.0 1.1 2.1 32.0СП3К14
+64.0 36.0 3.0
+
+
+col1280:
+0СТИЛОБАТ1
+1
+3
+15.0 10.0 1.0 2.0 14.0 2.1 3.0 1.1 13.0 66.0 2.2
+ 32.0 12.3 12.0 64.0СП3К14
+32
+36.02.1
+13
+11.0 1.2
+
+
+col1446:
+0Спутник
+Живи! В Рыбацком
+Пригород Лесное
+Новое Колпино
+Астрид
+Малая Охта
+Большое Путилково
+
+
+col1447:
+0Живи! В Рыбацком
+Спутник
+Малая Охта
+Пригород Лесное
+Новое Колпино
+Астрид
+Заречье Парк
+Сандэй
+Большое Путилково
+
+
+col1448:
+0Мытищи Парк
+Живи! В Рыбацком
+Спутник
+Малая Охта
+Остафьево
+Новое Колпино
+Пригород Лесное
+Долина Яузы
+Люберцы
+Астрид
+Новое Внуково
+Сандэй
+Новоданиловская 8
+Заречье Парк
+Верейская 41
+Большое Путилково
+
+
+col1450:
+0Спутник
+Живи! В Рыбацком
+Пригород Лесное
+Новое Колпино
+Мытищи Парк
+Малая Охта
+Верейская 41
+Большое Путилково
+
+
+col1451:
+0Живи! В Рыбацком
+Спутник
+Малая Охта
+Пригород Лесное
+Новое Колпино
+Мытищи Парк
+Астрид
+Заречье Парк
+Верейская 41
+Сандэй
+Большое Путилково
+
+
+col1452:
+0Мытищи Парк
+Живи! В Рыбацком
+Спутник
+Малая Охта
+Новое Колпино
+Остафьево
+Астрид
+Пригород Лесное
+Долина Яузы
+Люберцы
+Алхимово
+Новое Внуково
+Сандэй
+Верейская 41
+Заречье Парк
+Большое Путилково
+Квартал Некрасовка
 
 
 col1454:
@@ -7759,8 +9835,106 @@ f99a16a8-c0ef-ec11-b822-005056b8a6c4
 fdf04fb7-5404-4a9c-ae5b-e1e893060631
 
 
+col1652:
+0Дубль заявки
+Тестовая бронь
+Ожидает поступление денежных средств
+Не сообщил где
+Апартаменты
+Не выходит на связь
+Нет аккредитации по субсидии/ВИ/Банк
+Купил у конкурента (первичный рынок)
+Тестовая сделка
+Нет денег на ПВ
+Продает квартиру
+
+
+col1654:
+0Дубль заявки
+Тестовая бронь
+Ожидает поступление денежных средств
+Не сообщил где
+Апартаменты
+Не выходит на связь
+Нет аккредитации по субсидии/ВИ/Банк
+Купил у конкурента (первичный рынок)
+Тестовая сделка
+Нет денег на ПВ
+Продает квартиру
+
+
+col2191:
+0Замена квартиры
+Продает квартиру
+Не устроили условия
+Отказы банков
+Не оплатил опцион
+Купил у конкурента (самолет)у
+Отказ без объяснения причин
+
+
+col2192:
+0Замена квартиры
+Нет аккредитации по субсидии/ВИ/Банк
+Не устроила оценка (Ievel up, ТИ, выкуп)
+Изменение условий кредитования
+Тестовая бронь
+Не устроили условия
+Политическая ситуация
+Новая очередь/корпус
+Отложил продажу
+Отказы банков
+Одобрена меньшая сумма
+Истек срок опциона
+Не оплатил опцион
+Тестовая сделка
+Замена ОН на < S
+Дубль заявки
+Не устроили условия реализации
+Купил у конкурента (первичный рынок)
+Купил у конкурента (самолет)у
+Не продал квартиру/машину
+Отказ без объяснения причин
+
+
+col2193:
+0Замена квартиры
+Нет аккредитации по субсидии/ВИ/Банк
+Не устроила оценка (Ievel up, ТИ, выкуп)
+Изменение условий кредитования
+Не оплатил опцион
+Необходимо посоветоваться с ЛПР
+Квартира подорожала
+Политическая ситуация
+Отказы банков
+Новая очередь/корпус
+Замена ОН на > S
+Ожидает поступление денежных средств
+Ждет понижение цен на рынке
+Отложил продажу
+Тестовая бронь
+Не продал квартиру/машину
+Отказ без объяснения причин
+Одобрена меньшая сумма
+Нет нужного этажа
+Рождение ребенка
+Не могут определиться с планировочным решением
+Истек срок опциона
+Тестовая сделка
+Замена ОН на < S
+Дубль заявки
+Создана ошибочно
+Не устроили условия реализации
+Купил у конкурента (первичный рынок)
+Продает квартиру
+Решил вложить деньги в другое
+Нет денег на ПВ
+Отказ Банков
+Купил у конкурента (самолет)у
+
+
 col2194:
-Замена квартиры
+0Замена квартиры
 Не нравится район
 Нет аккредитации по субсидии/ВИ/Банк
 Отказы банков
@@ -7801,7 +9975,7 @@ col2194:
 
 
 col2195:
-Истек срок опциона
+0Истек срок опциона
 Тестовая сделка
 Не устроили условия реализации
 Уехали жить за границу/в другой город
@@ -7849,7 +10023,7 @@ col2195:
 
 
 col2196:
-Истек срок опциона
+0Истек срок опциона
 Продает квартиру
 Тестовая сделка
 Не устроили условия реализации
@@ -7901,8 +10075,28 @@ col2196:
 Отказ Банков
 
 
-col2198:
+col2197:
+0Замена квартиры
+Нет аккредитации по субсидии/ВИ/Банк
+Не устроила оценка (Ievel up, ТИ, выкуп)
+Изменение условий кредитования
+Тестовая бронь
+Не устроили условия
+Новая очередь/корпус
+Отложил продажу
+Отказы банков
+Одобрена меньшая сумма
 Истек срок опциона
+Не оплатил опцион
+Тестовая сделка
+Дубль заявки
+Не устроили условия реализации
+Купил у конкурента (самолет)у
+Отказ без объяснения причин
+
+
+col2198:
+0Истек срок опциона
 Продает квартиру
 Тестовая сделка
 Не устроили условия реализации
