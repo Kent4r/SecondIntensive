@@ -46,6 +46,7 @@ for col in float_columns:
     temp = df[col].fillna(0)
     if temp.apply(lambda x: x == int(x)).all():
         df[col] = df[col].astype("Int64")
+df = df.loc[:, (df != 0).any(axis=0)]
 
 # %%
 # Выводим уникальные значения float64 и int64
