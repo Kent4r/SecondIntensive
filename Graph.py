@@ -1,0 +1,27 @@
+#%%
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as ss
+import missingno as msn
+
+df = ss.read_csv('merged_data.csv')
+
+msn.bar(df, fontsize=10, color=(1, 0.75, 0.8))
+# %%
+# df = df.loc[:, ((df == 0) | (df.isnull())).mean() < 0.70]
+msn.bar(df, fontsize=10, color=(1, 0.75, 0.8))
+# %%
+df.info()
+# %%
+text = ""
+for col in list(df.columns): text += f"{col}:\n{str(df[col].unique())}\n\n\n"
+f = open('txt/unique_vals_in_merged_data.txt', 'w', encoding='utf-8')
+
+dic = {'nan':'',    "' ":'\n',  " '":'',    "'":'',     '[':'',     ']':''}
+for i, j in dic.items(): text = text.replace(i, j)
+
+f.write(text)
+f.close()
+
+# %%
+# TODO: ДРОПАТЬ НАХУЙ КОЛОННЫ С ССЫЛКАМИ
