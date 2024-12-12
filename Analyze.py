@@ -14,7 +14,7 @@ df.shape
 
 # %%
 # Удаляем все колонки, у которых наполненность менее 0.1%
-df = df.loc[:, ((df == 0) | (df.isnull())).mean() < 0.999]
+# df = df.loc[:, ((df == 0) | (df.isnull())).mean() < 0.999]
 df.shape
 
 # %%
@@ -41,12 +41,11 @@ f.close()
 
 # %%
 # Переводим колонки Float64 в Int64, которые можем
-df_copy = df.replace([np.inf, -np.inf, np.nan], 0)
-float_columns = df_copy.select_dtypes(include=np.number).columns
+float_columns = df.select_dtypes(include=np.number).columns
 for col in float_columns:
-    temp = df_copy[col].fillna(0)
+    temp = df[col].fillna(0)
     if temp.apply(lambda x: x == int(x)).all():
-        df[col] = df_copy[col].astype(int)
+        df[col] = df[col].astype("Int64")
 
 # %%
 # Выводим уникальные значения float64 и int64
