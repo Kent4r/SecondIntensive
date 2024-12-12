@@ -27,7 +27,7 @@ def merge_columns_with_common_values(df):
         x = np.nan
         if(x in common_values): common_values.remove(x)
         # print(common_values)
-        if len(common_values) > 1 or (len(df[next_col].unique()) == 2 and len(df[current_col].unique()) == 2):
+        if len(common_values) > 1 or (len(common_values) == 1 and len(df[current_col].unique()) < 3):
             # Объединяем столбцы, если есть общие значения
             count += 1
             merged_name = f"{current_col}"
