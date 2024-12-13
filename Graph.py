@@ -40,8 +40,10 @@ import pandas as pd
 
 df = pd.read_csv('merged_data_without_links.csv')
 
-df['report_date'] = pd.to_datetime(df['report_date'], format='%Y-%m-%d')
-df = df.select_dtypes(exclude=['object'])
+# df['report_date'] = pd.to_datetime(df['report_date'], format='%Y-%m-%d')
+# df = df.select_dtypes(exclude=['object'])
 df.info()
 # %%
 df.to_csv('merged_data_without_links.csv', index=False)
+
+# %%
