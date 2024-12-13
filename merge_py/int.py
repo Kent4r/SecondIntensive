@@ -100,7 +100,7 @@ else:
     print(f"{count} columns were merged.")
 
 # Заменяем все -1 на NaN
-df_merged.replace(-1, np.nan, inplace=True)
+# df_merged.replace(-1, np.nan, inplace=True)
 
 # Сохраняем результат в новый CSV-файл
 df_merged.to_csv("../merged_csv/merged_int64.csv", index=False)
