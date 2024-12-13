@@ -25,3 +25,14 @@ f.close()
 
 # %%
 # TODO: ДРОПАТЬ НАХУЙ КОЛОННЫ С ССЫЛКАМИ
+def has_link(column):
+    return column.astype(str).str.startswith(('http://', 'https://'), na=False).any()
+
+# Удаление столбцов, содержащих ссылки
+df = df.loc[:, ~df.apply(has_link)]
+
+has_link(df.columns)
+
+df.to_csv('merged_data_without_links.csv', index=False)
+
+# %%
