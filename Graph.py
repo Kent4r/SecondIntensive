@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as ss
 import missingno as msn
 
-df = ss.read_csv('merged_data.csv')
+df = ss.read_csv('merged_data_without_links.csv')
 
 msn.bar(df, fontsize=10, color=(1, 0.75, 0.8))
 # %%
@@ -15,7 +15,7 @@ df.info()
 # %%
 text = ""
 for col in list(df.columns): text += f"{col}:\n{str(df[col].unique())}\n\n\n"
-f = open('txt/unique_vals_in_merged_data.txt', 'w', encoding='utf-8')
+f = open('txt/unique_vals_in_merged_data_without_links.txt', 'w', encoding='utf-8')
 
 dic = {'nan':'',    "' ":'\n',  " '":'',    "'":'',     '[':'',     ']':''}
 for i, j in dic.items(): text = text.replace(i, j)
@@ -36,3 +36,12 @@ has_link(df.columns)
 df.to_csv('merged_data_without_links.csv', index=False)
 
 # %%
+import pandas as pd
+
+df = pd.read_csv('merged_data_without_links.csv')
+
+df['report_date'] = pd.to_datetime(df['report_date'], format='%Y-%m-%d')
+df = df.select_dtypes(exclude=['object'])
+df.info()
+# %%
+df.to_csv('merged_data_without_links.csv', index=False)
