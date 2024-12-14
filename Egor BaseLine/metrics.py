@@ -6,8 +6,8 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 import numpy as np
 
-data = pd.read_csv("../valid/processed_valid.csv")
-# data = data.loc[:, ((data.isnull())).mean() < 0.9]
+data = pd.read_csv("../merged_data_without_links.csv")
+# data = data.loc[:, ((data.isnull())).mean() < 0.99]
 data = data.drop(columns=['report_date','client_id'])
 data = data.fillna(0)
 X = data.drop(columns='target')
