@@ -24,7 +24,6 @@ f.write(text)
 f.close()
 
 # %%
-# TODO: ДРОПАТЬ НАХУЙ КОЛОННЫ С ССЫЛКАМИ
 def has_link(column):
     return column.astype(str).str.startswith(('http://', 'https://'), na=False).any()
 
